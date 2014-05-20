@@ -1,0 +1,1806 @@
+13.05.18 23:11:44 [INFO] FreeCandy4Sale failed SurvivalFly: tried to move unexpectedly. VL 140.
+13.05.26 13:55:10 [INFO] FreeCandy4Sale failed Visible: interacts with a block out of sight. VL 6.
+13.05.26 13:55:12 [INFO] FreeCandy4Sale failed Visible: interacts with a block out of sight. VL 7.
+13.05.26 13:55:13 [INFO] FreeCandy4Sale failed Frequency: tried to break too many blocks within time frame. VL 8.
+13.05.26 13:55:14 [INFO] FreeCandy4Sale failed Visible: interacts with a block out of sight. VL 8.
+13.06.07 15:59:38 [INFO] _Husky_ failed CreativeFly: tried to move unexpectedly. VL 184.
+13.06.08 17:26:03 [INFO] kevlar_miner failed SurvivalFly: tried to move from -80.70, 72.42, -79.46 to (HOVER) over a distance of 0.0(HOVER) block(s). VL 500.
+13.08.08 18:11:29 [INFO] R3creat3 failed Text: acted like spamming (IP: 137.147.190.133). VL 0.
+13.08.08 18:12:16 [INFO] R3creat3 failed Commands: issued too many commands. VL 1.
+13.08.08 20:10:50 [INFO] Geedubs01 failed Passable: moved into a block (1). VL 10.
+13.08.08 20:11:22 [INFO] Geedubs01 failed Passable: moved into a block (1). VL 11.
+13.08.08 20:11:27 [INFO] Geedubs01 failed Passable: moved into a block (1). VL 14.
+13.08.08 20:11:32 [INFO] Geedubs01 failed Passable: moved into a block (1). VL 20.
+13.08.08 20:57:24 [INFO] Geedubs01 failed Passable: moved into a block (1). VL 11.
+13.08.08 20:57:29 [INFO] Geedubs01 failed Passable: moved into a block (1). VL 16.
+13.08.09 15:23:39 [INFO] Geedubs01 failed CreativeFly: tried to move from 10.55, 71.88, 27.94 to 10.74, 76.88, 28.35 over a distance of 5.02 block(s). VL 400.
+13.08.09 15:24:11 [INFO] Geedubs01 failed CreativeFly: tried to move from 10.79, 71.49, 27.30 to 10.78, 76.98, 27.97 over a distance of 5.54 block(s). VL 458.
+13.08.09 15:25:35 [INFO] Geedubs01 failed CreativeFly: tried to move from 10.31, 68.69, 26.60 to 10.69, 73.85, 27.61 over a distance of 5.27 block(s). VL 464.
+13.08.11 14:10:50 [INFO] broddikill failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.08.11 14:10:50 [INFO] niceman506 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.08.11 15:44:48 [INFO] niceman506 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.08.11 15:59:41 [INFO] broddikill failed CreativeFly: tried to move unexpectedly. VL 351.
+13.08.11 16:00:33 [INFO] broddikill failed CreativeFly: tried to move unexpectedly. VL 250.
+13.08.11 16:01:09 [INFO] broddikill failed CreativeFly: tried to move from -18.40, 87.46, -1.66 to -18.29, 94.20, -3.10 over a distance of 6.90 block(s). VL 660.
+13.08.11 16:01:49 [INFO] niceman506 failed CreativeFly: tried to move from -18.29, 85.89, 1.50 to -18.09, 91.38, 2.20 over a distance of 5.54 block(s). VL 462.
+13.08.11 16:01:49 [INFO] broddikill failed CreativeFly: tried to move from -20.12, 86.08, -0.17 to -21.01, 91.72, -0.61 over a distance of 5.73 block(s). VL 504.
+13.08.11 16:05:37 [INFO] niceman506 failed CreativeFly: tried to move from -19.35, 83.24, -18.46 to -24.22, 87.62, -18.43 over a distance of 6.55 block(s). VL 765.
+13.08.11 16:06:29 [INFO] niceman506 failed CreativeFly: tried to move from -14.81, 79.71, -18.53 to -19.82, 81.62, -18.56 over a distance of 5.36 block(s). VL 532.
+13.08.11 16:07:47 [INFO] niceman506 failed CreativeFly: tried to move from -16.23, 80.82, -18.18 to -24.76, 85.41, -17.73 over a distance of 9.69 block(s). VL 1152.
+13.08.11 17:26:08 [INFO] beadycottonwood failed Visible: interacts with a block out of sight. VL 5.
+13.08.11 17:35:48 [INFO] beadycottonwood failed Visible: interacts with a block out of sight. VL 5.
+13.08.11 17:35:53 [INFO] beadycottonwood failed Visible: interacts with a block out of sight. VL 6.
+13.08.11 17:36:00 [INFO] beadycottonwood failed Visible: interacts with a block out of sight. VL 7.
+13.08.11 17:38:59 [INFO] beadycottonwood failed Visible: interacts with a block out of sight. VL 6.
+13.08.11 17:39:11 [INFO] beadycottonwood failed Visible: interacts with a block out of sight. VL 6.
+13.08.11 17:39:55 [INFO] beadycottonwood failed Visible: interacts with a block out of sight. VL 5.
+13.08.12 19:16:48 [INFO] PixelCrumbs failed CreativeFly: tried to move unexpectedly. VL 147.
+13.08.12 19:17:03 [INFO] PixelCrumbs failed CreativeFly: tried to move unexpectedly. VL 397.
+13.08.12 19:17:03 [INFO] PixelCrumbs failed CreativeFly: tried to move from 44.08, 86.12, -2.58 to 45.42, 86.12, -2.45 over a distance of 1.34 block(s). VL 448.
+13.08.13 00:20:45 [INFO] WildlegZ_ failed CreativeFly: tried to move unexpectedly. VL 74.
+13.08.13 00:20:58 [INFO] WildlegZ_ failed SurvivalFly: tried to move unexpectedly. VL 66.
+13.08.13 00:21:00 [INFO] WildlegZ_ failed SurvivalFly: tried to move unexpectedly. VL 105.
+13.08.13 00:21:05 [INFO] WildlegZ_ failed SurvivalFly: tried to move unexpectedly. VL 280.
+13.08.13 00:21:27 [INFO] WildlegZ_ failed SurvivalFly: tried to move unexpectedly. VL 47.
+13.08.13 00:21:28 [INFO] WildlegZ_ failed SurvivalFly: tried to move unexpectedly. VL 104.
+13.08.17 11:51:02 [INFO] xXJazzerXx failed Direction: tried to interact with a block out of his line of sight. VL 12.
+13.08.18 17:10:44 [INFO] MintyPvP failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.08.18 17:10:46 [INFO] MintyPvP failed MorePackets: sent 30 more packet(s) than expected. VL 30.
+13.08.18 17:10:48 [INFO] MintyPvP failed MorePackets: sent 62 more packet(s) than expected. VL 62.
+13.08.18 17:10:50 [INFO] MintyPvP failed MorePackets: sent 95 more packet(s) than expected. VL 95.
+13.08.18 17:10:50 [INFO] MintyPvP failed MorePackets: sent 100 more packet(s) than expected. VL 100.
+13.08.18 17:11:57 [INFO] MintyPvP failed MorePackets: sent 102 more packet(s) than expected. VL 102.
+13.08.18 18:36:31 [INFO] MintyPvP failed SurvivalFly: tried to move unexpectedly. VL 38.
+13.08.18 18:38:34 [INFO] MintyPvP failed GodMode: avoided taking damage or lagging. VL 6.
+13.08.18 19:59:46 [INFO] MintyPvP failed Passable: moved into a block (20). VL 10.
+13.08.24 20:51:36 [INFO] shavahn2003 failed CreativeFly: tried to move unexpectedly. VL 9.
+13.08.25 16:30:09 [INFO] SuperDuckFace failed Speed: tried to throw projectiles too quickly. VL 314.
+13.08.25 16:30:09 [INFO] SuperDuckFace failed Passable: moved into a block (20). VL 10.
+13.08.25 16:30:11 [INFO] XUHAVON failed Passable: moved into a block (20). VL 10.
+13.08.25 16:30:11 [INFO] beadycottonwood failed Passable: moved into a block (20). VL 10.
+13.08.25 16:30:17 [INFO] beadycottonwood failed Passable: moved into a block (20). VL 40.
+13.08.25 16:30:34 [INFO] XUHAVON failed Passable: moved into a block (20). VL 10.
+13.08.26 17:29:51 [INFO] Sky_Aurora failed Text: acted like spamming (IP: 01.174.149.218/101.174.149.218). VL 3.
+13.08.30 22:03:41 [INFO] dashhhb failed Passable: moved into a block (7). VL 10.
+13.08.30 22:13:33 [INFO] dashhhb failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.08.31 23:24:32 [INFO] MintyPvP failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.08.31 23:37:15 [INFO] MintyPvP failed CreativeFly: tried to move unexpectedly. VL 15.
+13.08.31 23:37:20 [INFO] MintyPvP failed CreativeFly: tried to move unexpectedly. VL 8.
+13.08.31 23:37:26 [INFO] MintyPvP failed CreativeFly: tried to move unexpectedly. VL 8.
+13.08.31 23:37:32 [INFO] MintyPvP failed CreativeFly: tried to move unexpectedly. VL 8.
+13.08.31 23:39:17 [INFO] MintyPvP failed CreativeFly: tried to move unexpectedly. VL 34.
+13.08.31 23:39:35 [INFO] MintyPvP failed CreativeFly: tried to move unexpectedly. VL 22.
+13.08.31 23:39:40 [INFO] MintyPvP failed CreativeFly: tried to move unexpectedly. VL 38.
+13.09.05 18:19:20 [INFO] azdaspaz818 failed Relog: relogs too fast. VL 1.
+13.09.05 18:19:34 [INFO] azdaspaz818 failed Relog: relogs too fast. VL 2.
+13.09.07 20:48:56 [INFO] justchilln21 failed Reach: exceeds block-interact distance (252). VL 252.
+13.09.07 21:01:27 [INFO] justchilln21 failed Relog: relogs too fast. VL 1.
+13.09.08 10:44:50 [INFO] MintyPvP failed Direction: tried to hit an entity out of line of sight. VL 8.
+13.09.08 16:56:28 [INFO] Yuzko failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.08 16:58:20 [INFO] Yuzko failed Commands: issued too many commands. VL 1.
+13.09.08 17:01:49 [INFO] Geedubs01 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.10 19:22:19 [INFO] Turt1eManLol failed Direction: tried to hit an entity out of line of sight. VL 8.
+13.09.10 20:48:29 [INFO] LadyEmily failed Visible: interacts with a block out of sight. VL 5.
+13.09.10 21:24:53 [INFO] LadyEmily failed Commands: issued too many commands. VL 1.
+13.09.11 18:56:48 [INFO] _Moist failed Frequency: tried to break too many blocks within time frame. VL 9.
+13.09.11 19:03:51 [INFO] _Moist failed Direction: tried to interact with a block out of his line of sight. VL 11.
+13.09.12 18:23:51 [INFO] DynaDavidson failed Direction: tried to interact with a block out of his line of sight. VL 10.
+13.09.12 18:23:52 [INFO] DynaDavidson failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.12 18:48:47 [INFO] meganlovesmusic failed Text: acted like spamming (IP: 01.174.24.161/101.174.24.161). VL 1.
+13.09.14 14:43:12 [INFO] _Moist failed Improbable: meets the improbable more than expected. VL 9.
+13.09.14 15:34:02 [INFO] _Moist failed Relog: relogs too fast. VL 1.
+13.09.14 18:14:42 [INFO] Corrigan1998 failed Visible: interacts with a block out of sight. VL 6.
+13.09.15 19:47:16 [INFO] DynaDavidson failed Reach: exceeds block-interact distance (251). VL 251.
+13.09.15 19:47:18 [INFO] DynaDavidson failed Reach: exceeds block-interact distance (251). VL 1756.
+13.09.16 18:18:48 [INFO] _Moist failed SurvivalFly: tried to move from 16.56, 25.00, 8.66 to 11.43, 25.00, 7.51 over a distance of 5.25 block(s). VL 503.
+13.09.16 18:18:53 [INFO] _Moist failed SurvivalFly: tried to move from 10.72, 25.00, 7.34 to 16.41, 25.00, 9.67 over a distance of 6.14 block(s). VL 1095.
+13.09.16 18:19:28 [INFO] _Moist failed CreativeFly: tried to move from 0.42, 28.98, -8.69 to 17.57, 30.86, 9.08 over a distance of 24.76 block(s). VL 2497.
+13.09.16 18:20:42 [INFO] _Moist failed SurvivalFly: tried to move from 0.40, 20.77, 11.52 to -0.12, 20.92, 11.48 over a distance of 0.55 block(s). VL 1126.
+13.09.16 18:20:53 [INFO] callumary failed CreativeFly: tried to move from 20.83, 25.00, 8.86 to 15.60, 27.86, 9.64 over a distance of 6.01 block(s). VL 655.
+13.09.16 18:49:58 [INFO] _Moist failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+13.09.16 18:50:04 [INFO] _Moist failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 99.
+13.09.17 18:02:56 [INFO] _Moist failed Text: acted like spamming (IP: yport11.lnk.telstra.net/110.142.15.90). VL 3.
+13.09.18 08:38:49 [INFO] _Moist failed Commands: issued too many commands. VL 1.
+13.09.18 20:16:17 [INFO] Afridge1O1 failed Passable: moved into a block (17). VL 10.
+13.09.18 20:16:24 [INFO] Afridge1O1 failed Passable: moved into a block (17). VL 10.
+13.09.19 18:27:46 [INFO] FaazM failed Reach: exceeds block-interact distance (251). VL 251.
+13.09.19 18:37:28 [INFO] _Moist failed Commands: issued too many commands. VL 1.
+13.09.19 18:47:33 [INFO] Corrigan1998 failed Speed: tried to throw projectiles too quickly. VL 312.
+13.09.19 19:46:45 [INFO] Corrigan1998 failed Reach: exceeds block-interact distance (253). VL 253.
+13.09.19 19:46:47 [INFO] Corrigan1998 failed Reach: exceeds block-interact distance (255). VL 761.
+13.09.20 17:40:09 [INFO] _Moist failed CreativeFly: tried to move unexpectedly. VL 386.
+13.09.20 18:27:03 [INFO] LanderA failed Text: acted like spamming (IP: pp118-208-235-129.lns20.hba2.internode.on.net/118.208.235.129). VL 1.
+13.09.20 19:18:22 [INFO] Turt1eManLol failed Relog: relogs too fast. VL 1.
+13.09.20 23:27:49 [INFO] SuperDuckFace failed Passable: moved into a block (1). VL 10.
+13.09.20 23:40:57 [INFO] SuperDuckFace failed Text: acted like spamming (IP: 03-217-33-33.dyn.iinet.net.au/203.217.33.33). VL 1.
+13.09.21 10:55:39 [INFO] _Moist failed Text: acted like spamming (IP: PE-121-217-202-38.lnse3.cht.bigpond.net.au/121.217.202.38). VL 3.
+13.09.21 12:14:31 [INFO] DynaDavidson failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.21 19:34:55 [INFO] ninsai failed Passable: moved into a block (43). VL 10.
+13.09.21 20:22:38 [INFO] SuperDuckFace failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.22 13:13:13 [INFO] _Moist failed Reach: exceeds block-interact distance (252). VL 252.
+13.09.22 13:23:10 [INFO] justchilln21 failed Improbable: meets the improbable more than expected. VL 7.
+13.09.22 14:44:20 [INFO] _Moist failed Text: acted like spamming (IP: PE-121-217-202-38.lnse3.cht.bigpond.net.au/121.217.202.38). VL 0.
+13.09.22 15:25:48 [INFO] FaazM failed Text: acted like spamming (IP: ebrey.lnk.telstra.net/120.151.118.53). VL 1.
+13.09.22 15:47:20 [INFO] FaazM failed Speed: tried to throw projectiles too quickly. VL 313.
+13.09.22 16:57:32 [INFO] Luke131166 failed CreativeFly: tried to move unexpectedly. VL 1.
+13.09.22 16:58:12 [INFO] Luke131166 failed CreativeFly: tried to move unexpectedly. VL 4.
+13.09.22 17:51:23 [INFO] justchilln21 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+13.09.22 18:09:19 [INFO] popetpoo failed Passable: moved into a block (1). VL 10.
+13.09.22 21:27:13 [INFO] popetpoo failed Commands: issued too many commands. VL 1.
+13.09.22 22:59:52 [INFO] justchilln21 failed Speed: tried to throw projectiles too quickly. VL 288.
+13.09.22 23:00:01 [INFO] justchilln21 failed Speed: tried to throw projectiles too quickly. VL 168.
+13.09.22 23:02:58 [INFO] justchilln21 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+13.09.22 23:02:59 [INFO] justchilln21 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.22 23:02:59 [INFO] FaazM failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.22 23:33:29 [INFO] _Moist failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.23 12:33:57 [INFO] justchilln21 failed Visible: interacts with a block out of sight. VL 6.
+13.09.23 12:33:59 [INFO] justchilln21 failed Visible: interacts with a block out of sight. VL 8.
+13.09.23 12:38:53 [INFO] _Moist failed Text: acted like spamming (IP: PE-121-217-202-38.lnse3.cht.bigpond.net.au/121.217.202.38). VL 1.
+13.09.23 12:53:18 [INFO] MiCkEyMiCE failed Text: acted like spamming (IP: 122-106-91-249.randw3.nsw.optusnet.com.au/122.106.91.249). VL 3.
+13.09.23 18:47:57 [INFO] snoopie123 failed Speed: tried to throw projectiles too quickly. VL 305.
+13.09.23 18:48:04 [INFO] snoopie123 failed Speed: tried to throw projectiles too quickly. VL 486.
+13.09.23 18:48:10 [INFO] snoopie123 failed Speed: tried to throw projectiles too quickly. VL 758.
+13.09.23 18:48:15 [INFO] snoopie123 failed Speed: tried to throw projectiles too quickly. VL 435.
+13.09.23 18:48:21 [INFO] snoopie123 failed Speed: tried to throw projectiles too quickly. VL 435.
+13.09.23 18:48:26 [INFO] snoopie123 failed Speed: tried to throw projectiles too quickly. VL 188.
+13.09.23 18:48:32 [INFO] snoopie123 failed Speed: tried to throw projectiles too quickly. VL 160.
+13.09.23 18:59:02 [INFO] Corrigan1998 failed Improbable: meets the improbable more than expected. VL 9.
+13.09.23 19:28:52 [INFO] snoopie123 failed CreativeFly: tried to move unexpectedly. VL 124.
+13.09.23 19:51:37 [INFO] Corrigan1998 failed Text: acted like spamming (IP: orrig6.lnk.telstra.net/120.151.135.235). VL 0.
+13.09.24 18:48:39 [INFO] LanderA failed Visible: interacts with a block out of sight. VL 5.
+13.09.24 18:50:09 [INFO] LanderA failed Visible: interacts with a block out of sight. VL 5.
+13.09.24 19:45:59 [INFO] MiCkEyMiCE failed Text: acted like spamming (IP: 122-106-91-249.randw3.nsw.optusnet.com.au/122.106.91.249). VL 1.
+13.09.24 20:20:37 [INFO] Luke131166 failed Speed: tried to throw projectiles too quickly. VL 313.
+13.09.24 20:21:32 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 314.
+13.09.24 20:21:32 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 1106.
+13.09.24 20:21:33 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 12.
+13.09.24 20:21:42 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 5413.
+13.09.24 20:21:43 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 69.
+13.09.24 20:21:51 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 4637.
+13.09.24 20:21:52 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 34.
+13.09.24 20:22:02 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 5974.
+13.09.24 20:22:02 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 43.
+13.09.24 20:22:44 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 1427.
+13.09.24 20:24:11 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 279.
+13.09.24 20:24:11 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 1177.
+13.09.24 20:24:16 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 3480.
+13.09.24 20:24:17 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 9.
+13.09.24 20:24:40 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 808.
+13.09.24 20:24:40 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 1022.
+13.09.24 20:24:41 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 13.
+13.09.24 20:24:45 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 444.
+13.09.24 20:24:55 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 334.
+13.09.24 20:24:55 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 51.
+13.09.24 20:24:57 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 1030.
+13.09.24 20:27:51 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 280.
+13.09.24 20:27:56 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 698.
+13.09.24 20:27:56 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 12.
+13.09.24 20:28:32 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 18.
+13.09.24 20:28:41 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 31.
+13.09.24 20:28:50 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 34.
+13.09.24 20:28:58 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 668.
+13.09.24 20:29:11 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 2763.
+13.09.24 20:29:30 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 4142.
+13.09.24 20:31:44 [INFO] Luke131166 failed Direction: tried to hit an entity out of line of sight. VL 9.
+13.09.24 20:33:00 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 314.
+13.09.24 20:34:49 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 316.
+13.09.24 20:36:19 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 287.
+13.09.24 20:42:26 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 320.
+13.09.24 20:42:32 [INFO] popetpoo failed Speed: tried to throw projectiles too quickly. VL 185.
+13.09.24 20:42:38 [INFO] popetpoo failed Direction: tried to interact with a block out of his line of sight. VL 13.
+13.09.24 20:44:17 [INFO] popetpoo failed Improbable: meets the improbable more than expected. VL 12.
+13.09.24 20:44:18 [INFO] Luke131166 failed Speed: tried to throw projectiles too quickly. VL 170.
+13.09.24 23:40:18 [INFO] shavahn2003 failed Relog: relogs too fast. VL 1.
+13.09.24 23:56:25 [INFO] shavahn2003 failed Text: acted like spamming (IP: 03-217-33-33.dyn.iinet.net.au/203.217.33.33). VL 1.
+13.09.25 13:29:00 [INFO] shavahn2003 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+13.09.25 13:47:11 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.25 14:01:35 [INFO] shavahn2003 failed InstantBow: fires bow too fast. VL 23.
+13.09.25 20:13:33 [INFO] DynaDavidson failed Commands: issued too many commands. VL 1.
+13.09.25 20:28:48 [INFO] DynaDavidson failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.25 21:17:09 [INFO] MiCkEyMiCE failed Improbable: meets the improbable more than expected. VL 13.
+13.09.26 21:14:22 [INFO] MiCkEyMiCE failed SurvivalFly: tried to move from 13.52, -92.99, -3.66 to 13.52, -94.14, -3.66 over a distance of 1.15 block(s). VL 458.
+13.09.28 14:33:47 [INFO] MiCkEyMiCE failed Text: acted like spamming (IP: 122-106-91-249.randw3.nsw.optusnet.com.au/122.106.91.249). VL 0.
+13.09.28 16:18:22 [INFO] DynaDavidson failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 98.
+13.09.28 16:22:59 [INFO] Yuzko failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.28 16:34:50 [INFO] Yuzko failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.28 16:47:52 [INFO] _Moist failed Text: acted like spamming (IP: PE-121-217-11-36.lnse1.cht.bigpond.net.au/121.217.11.36). VL 1.
+13.09.29 13:13:39 [INFO] SuperDuckFace failed Passable: moved into a block (0). VL 11.
+13.09.29 13:16:10 [INFO] Yuzko failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.09.29 13:53:37 [INFO] xXJazzerXx failed Speed: tried to throw projectiles too quickly. VL 182.
+13.09.29 13:54:06 [INFO] xXJazzerXx failed Speed: tried to throw projectiles too quickly. VL 187.
+13.09.29 13:54:13 [INFO] xXJazzerXx failed Speed: tried to throw projectiles too quickly. VL 174.
+13.09.29 13:54:28 [INFO] xXJazzerXx failed Speed: tried to throw projectiles too quickly. VL 164.
+13.09.29 13:54:36 [INFO] xXJazzerXx failed Speed: tried to throw projectiles too quickly. VL 156.
+13.09.29 13:54:41 [INFO] xXJazzerXx failed Speed: tried to throw projectiles too quickly. VL 191.
+13.09.29 13:55:01 [INFO] xXJazzerXx failed Speed: tried to throw projectiles too quickly. VL 170.
+13.09.29 13:55:12 [INFO] xXJazzerXx failed Speed: tried to throw projectiles too quickly. VL 162.
+13.09.29 13:55:18 [INFO] xXJazzerXx failed Speed: tried to throw projectiles too quickly. VL 501.
+13.09.29 14:06:03 [INFO] Reicy_ failed Text: acted like spamming (IP: PE-124-180-218-19.lns8.lon.bigpond.net.au/124.180.218.19). VL 0.
+13.09.29 18:45:47 [INFO] broddikill failed Visible: interacts with a block out of sight. VL 5.
+13.09.29 18:47:16 [INFO] Yuzko failed Passable: moved into a block (1). VL 10.
+13.09.30 20:03:26 [INFO] callumary failed CreativeFly: tried to move from -2.43, 70.08, -14.51 to 0.67, 72.52, -17.55 over a distance of 4.99 block(s). VL 519.
+13.10.01 00:15:50 [INFO] _Moist failed CreativeFly: tried to move unexpectedly. VL 113.
+13.10.01 21:32:52 [INFO] _Moist failed Commands: issued too many commands. VL 1.
+13.10.02 13:45:24 [INFO] Corrigan1998 failed Relog: relogs too fast. VL 1.
+13.10.02 15:57:06 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 9.
+13.10.02 15:57:11 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 15.
+13.10.02 15:57:16 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 15.
+13.10.02 15:57:58 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 11.
+13.10.02 15:58:05 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 13.
+13.10.02 15:58:28 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 6.
+13.10.02 16:02:24 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 18.
+13.10.02 16:02:33 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 6.
+13.10.02 16:03:15 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 11.
+13.10.02 16:04:15 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 7.
+13.10.02 16:04:21 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 13.
+13.10.02 16:04:33 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 5.
+13.10.02 16:04:38 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 12.
+13.10.02 16:04:58 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 6.
+13.10.02 16:05:08 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 9.
+13.10.02 16:05:37 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 4.
+13.10.02 16:06:29 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 10.
+13.10.02 16:06:35 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 11.
+13.10.02 16:06:40 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 6.
+13.10.02 16:06:45 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 6.
+13.10.02 16:06:54 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 8.
+13.10.02 16:07:00 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 10.
+13.10.02 16:07:34 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 6.
+13.10.02 16:10:05 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 16.
+13.10.02 16:10:16 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 14.
+13.10.02 16:10:58 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 4.
+13.10.02 16:11:03 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 5.
+13.10.02 16:11:23 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 5.
+13.10.02 16:11:28 [INFO] CreeperDaWeeper failed CreativeFly: tried to move unexpectedly. VL 15.
+13.10.02 19:17:58 [INFO] Corrigan1998 failed CreativeFly: tried to move unexpectedly. VL 116.
+13.10.02 20:47:57 [INFO] SuperDuckFace failed Text: acted like spamming (IP: 03-217-33-33.dyn.iinet.net.au/203.217.33.33). VL 1.
+13.10.02 20:52:48 [INFO] SuperDuckFace failed SurvivalFly: tried to move unexpectedly. VL 126.
+13.10.02 20:52:53 [INFO] SuperDuckFace failed SurvivalFly: tried to move unexpectedly. VL 65.
+13.10.02 20:52:59 [INFO] ninsai failed SurvivalFly: tried to move unexpectedly. VL 145.
+13.10.02 20:53:00 [INFO] SuperDuckFace failed SurvivalFly: tried to move unexpectedly. VL 66.
+13.10.04 12:10:51 [INFO] codmelow failed Direction: tried to hit an entity out of line of sight. VL 15.
+13.10.04 12:24:06 [INFO] codmelow failed CreativeFly: tried to move unexpectedly. VL 124.
+13.10.04 12:30:09 [INFO] codmelow failed Speed: tried to attack with too high a frequency. VL 2.
+13.10.04 12:30:09 [INFO] codmelow failed Improbable: meets the improbable more than expected. VL 12.
+13.10.04 12:30:10 [INFO] codmelow failed Direction: tried to hit an entity out of line of sight. VL 15.
+13.10.04 12:30:16 [INFO] codmelow failed Direction: tried to hit an entity out of line of sight. VL 8.
+13.10.04 12:30:19 [INFO] codmelow failed Improbable: meets the improbable more than expected. VL 26.
+13.10.04 12:30:21 [INFO] codmelow failed Direction: tried to hit an entity out of line of sight. VL 7.
+13.10.04 12:40:50 [INFO] _Arch_Rider failed CreativeFly: tried to move unexpectedly. VL 111.
+13.10.04 12:41:28 [INFO] _Arch_Rider failed Visible: interacts with a block out of sight. VL 5.
+13.10.04 12:54:28 [INFO] Sky_Aurora failed Direction: tried to interact with a block out of his line of sight. VL 13.
+13.10.04 18:12:43 [INFO] MiCkEyMiCE failed Text: acted like spamming (IP: 122-106-91-249.randw3.nsw.optusnet.com.au/122.106.91.249). VL 0.
+13.10.04 18:17:40 [INFO] MiCkEyMiCE failed Visible: interacts with a block out of sight. VL 6.
+13.10.04 18:17:42 [INFO] MiCkEyMiCE failed Visible: interacts with a block out of sight. VL 9.
+13.10.04 18:17:42 [INFO] MiCkEyMiCE failed Passable: moved into a block (20). VL 11.
+13.10.05 14:24:58 [INFO] MiCkEyMiCE failed Text: acted like spamming (IP: 122-106-91-249.randw3.nsw.optusnet.com.au/122.106.91.249). VL 2.
+13.10.05 15:17:06 [INFO] Yuzko failed Text: acted like spamming (IP: pp121-44-6-170.lns20.syd6.internode.on.net/121.44.6.170). VL 1.
+13.10.05 18:41:47 [INFO] SuperGoatsCheese failed Passable: moved into a block (103). VL 10.
+13.10.05 18:41:54 [INFO] SuperGoatsCheese failed Passable: moved into a block (103). VL 22.
+13.10.05 18:41:59 [INFO] SuperGoatsCheese failed Passable: moved into a block (103). VL 37.
+13.10.05 18:42:04 [INFO] SuperGoatsCheese failed Passable: moved into a block (103). VL 49.
+13.10.05 18:42:04 [INFO] SuperGoatsCheese failed Passable: moved into a block (103). VL 50.
+13.10.05 18:42:09 [INFO] SuperGoatsCheese failed Passable: moved into a block (103). VL 56.
+13.10.05 18:42:24 [INFO] SuperGoatsCheese failed Passable: moved into a block (103). VL 66.
+13.10.05 19:45:54 [INFO] SuperGoatsCheese failed Visible: interacts with a block out of sight. VL 6.
+13.10.05 19:45:56 [INFO] SuperGoatsCheese failed Visible: interacts with a block out of sight. VL 6.
+13.10.05 19:54:46 [INFO] DynaDavidson failed Commands: issued too many commands. VL 1.
+13.10.06 14:08:37 [INFO] BroccoliSux failed CreativeFly: tried to move unexpectedly. VL 58.
+13.10.06 15:49:32 [INFO] Htgan failed InstantBow: fires bow too fast. VL 27.
+13.10.06 16:24:31 [INFO] CleverClocks failed Speed: tried to throw projectiles too quickly. VL 311.
+13.10.06 16:40:14 [INFO] CleverClocks failed Improbable: meets the improbable more than expected. VL 15.
+13.10.06 17:10:09 [INFO] MiCkEyMiCE failed Commands: issued too many commands. VL 1.
+13.10.06 18:12:47 [INFO] CreeperDaWeeper failed SurvivalFly: tried to move unexpectedly. VL 60.
+13.10.06 18:12:52 [INFO] CreeperDaWeeper failed SurvivalFly: tried to move unexpectedly. VL 105.
+13.10.06 18:13:02 [INFO] CreeperDaWeeper failed SurvivalFly: tried to move unexpectedly. VL 15.
+13.10.06 18:13:07 [INFO] CreeperDaWeeper failed SurvivalFly: tried to move unexpectedly. VL 33.
+13.10.06 18:13:15 [INFO] CreeperDaWeeper failed SurvivalFly: tried to move unexpectedly. VL 33.
+13.10.06 18:13:21 [INFO] CreeperDaWeeper failed SurvivalFly: tried to move unexpectedly. VL 34.
+13.10.06 18:13:25 [INFO] Corrigan1998 failed SurvivalFly: tried to move unexpectedly. VL 29.
+13.10.06 18:26:30 [INFO] xUnknownHDx failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.10.06 18:26:30 [INFO] SuperDuckFace failed Relog: relogs too fast. VL 1.
+13.10.06 18:27:49 [INFO] CleverClocks failed Passable: moved into a block (20). VL 10.
+13.10.06 18:27:53 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 6.
+13.10.06 18:29:47 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 8.
+13.10.06 18:34:39 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 8.
+13.10.06 18:35:03 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 9.
+13.10.06 18:40:16 [INFO] CleverClocks failed Passable: moved into a block (17). VL 10.
+13.10.06 18:40:24 [INFO] CleverClocks failed Passable: moved into a block (17). VL 13.
+13.10.06 18:40:32 [INFO] CleverClocks failed Passable: moved into a block (17). VL 15.
+13.10.06 18:40:38 [INFO] CleverClocks failed Passable: moved into a block (17). VL 18.
+13.10.06 18:41:24 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 6.
+13.10.06 18:41:33 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 7.
+13.10.06 18:41:45 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 9.
+13.10.06 18:42:03 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 10.
+13.10.06 18:42:03 [INFO] CleverClocks failed Passable: moved into a block (20). VL 10.
+13.10.06 18:42:05 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 10.
+13.10.06 18:42:07 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 11.
+13.10.06 18:42:09 [INFO] CleverClocks failed Passable: moved into a block (20). VL 12.
+13.10.06 18:42:14 [INFO] CleverClocks failed Passable: moved into a block (20). VL 11.
+13.10.06 18:42:18 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 10.
+13.10.06 18:42:19 [INFO] CleverClocks failed Passable: moved into a block (20). VL 10.
+13.10.06 18:42:33 [INFO] CleverClocks failed Visible: interacts with a block out of sight. VL 6.
+13.10.06 18:43:57 [INFO] CleverClocks failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 98.
+13.10.06 18:43:57 [INFO] CleverClocks failed Angle: tried to hit multiple entities at the same time. VL 290.
+13.10.06 18:57:58 [INFO] Yuzko failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.10.06 19:00:02 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.10.07 15:31:03 [INFO] JacquiRose failed Text: acted like spamming (IP: pp118-208-229-182.lns20.hba1.internode.on.net/118.208.229.182). VL 0.
+13.10.07 16:31:17 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.10.07 16:31:25 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 44.
+13.10.07 16:31:33 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 155.
+13.10.07 16:31:41 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 31.
+13.10.07 16:31:49 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 3382.
+13.10.07 16:31:57 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 7470.
+13.10.07 16:32:05 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 9010.
+13.10.07 16:32:17 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 9094.
+13.10.07 16:33:05 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 213.
+13.10.07 16:36:23 [INFO] ScruffyRules failed Speed: tried to attack with too high a frequency. VL 2.
+13.10.07 16:36:23 [INFO] ScruffyRules failed Angle: tried to hit multiple entities at the same time. VL 264.
+13.10.07 16:36:25 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 24.
+13.10.07 16:36:29 [INFO] ScruffyRules failed Speed: tried to attack with too high a frequency. VL 83.
+13.10.07 16:36:30 [INFO] ScruffyRules failed Angle: tried to hit multiple entities at the same time. VL 912.
+13.10.07 16:36:48 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 31.
+13.10.07 16:37:39 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.10.07 16:37:47 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 19.
+13.10.07 16:38:22 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 6.
+13.10.07 16:38:45 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 10.
+13.10.07 16:38:53 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 47.
+13.10.07 16:39:41 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 10.
+13.10.07 16:58:32 [INFO] Yuzko failed CreativeFly: tried to move unexpectedly. VL 105.
+13.10.07 17:09:43 [INFO] MiCkEyMiCE failed Text: acted like spamming (IP: 122-106-91-249.randw3.nsw.optusnet.com.au/122.106.91.249). VL 3.
+13.10.07 18:15:33 [INFO] Yuzko failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.10.07 19:21:20 [INFO] CleverClocks failed Passable: moved into a block (17). VL 11.
+13.10.07 19:38:58 [INFO] _Arch_Rider failed Passable: moved into a block (1). VL 10.
+13.10.07 20:05:16 [INFO] CreeperDaWeeper failed Speed: tried to throw projectiles too quickly. VL 313.
+13.10.07 20:05:16 [INFO] CreeperDaWeeper failed Speed: tried to throw projectiles too quickly. VL 1164.
+13.10.07 20:05:16 [INFO] CreeperDaWeeper failed Direction: tried to interact with a block out of his line of sight. VL 11.
+13.10.08 12:33:07 [INFO] _Arch_Rider failed Relog: relogs too fast. VL 1.
+13.10.08 12:34:05 [INFO] _Arch_Rider failed Commands: issued too many commands. VL 1.
+13.10.08 17:59:38 [INFO] Luke131166 failed Relog: relogs too fast. VL 1.
+13.10.08 19:06:05 [INFO] DynaDavidson failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.10.09 19:24:48 [INFO] ninsai failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.10.10 13:38:59 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.10.10 13:39:07 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 162.
+13.10.10 13:39:36 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 28.
+13.10.10 13:41:04 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.10.10 13:45:22 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 8.
+13.10.10 13:45:32 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 21.
+13.10.10 13:45:39 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 7.
+13.10.10 13:45:50 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 5.
+13.10.10 13:46:08 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 6.
+13.10.10 13:46:29 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 5.
+13.10.10 13:46:44 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 5.
+13.10.10 13:52:50 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.10.10 13:53:05 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 13.
+13.10.10 14:37:26 [INFO] dragonxcv failed SurvivalFly: tried to move unexpectedly. VL 275.
+13.10.11 18:40:05 [INFO] BroccoliSux failed Passable: moved into a block (24). VL 10.
+13.10.11 18:41:55 [INFO] FaazM failed Text: acted like spamming (IP: ebrey.lnk.telstra.net/120.151.118.53). VL 1.
+13.10.11 18:43:23 [INFO] FaazM failed Improbable: meets the improbable more than expected. VL 12.
+13.10.11 18:43:51 [INFO] FaazM failed Improbable: meets the improbable more than expected. VL 8.
+13.10.11 18:49:57 [INFO] BroccoliSux failed Direction: tried to interact with a block out of his line of sight. VL 12.
+13.10.11 18:49:57 [INFO] BroccoliSux failed Visible: interacts with a block out of sight. VL 5.
+13.10.11 18:49:57 [INFO] BroccoliSux failed Speed: interacts too fast. VL 200.
+13.10.11 18:49:57 [INFO] BroccoliSux failed Speed: interacts too fast. VL 1000.
+13.10.11 18:54:37 [INFO] BroccoliSux failed Visible: interacts with a block out of sight. VL 23.
+13.10.11 18:54:37 [INFO] BroccoliSux failed Frequency: tried to break too many blocks within time frame. VL 7.
+13.10.11 18:54:37 [INFO] BroccoliSux failed Speed: interacts too fast. VL 532.
+13.10.11 18:54:39 [INFO] BroccoliSux failed NoSwing: didn't swing arm. VL 11.
+13.10.11 18:54:39 [INFO] BroccoliSux failed Visible: interacts with a block out of sight. VL 31.
+13.10.12 16:35:02 [INFO] ninsai failed Text: acted like spamming (IP: 114-77-222-159.rivrw3.nsw.optusnet.com.au/114.77.222.159). VL 1.
+13.10.12 16:35:07 [INFO] SuperDuckFace failed Text: acted like spamming (IP: 03-217-33-33.dyn.iinet.net.au/203.217.33.33). VL 1.
+13.10.12 16:35:18 [INFO] SuperDuckFace failed Text: acted like spamming (IP: 03-217-33-33.dyn.iinet.net.au/203.217.33.33). VL 1.
+13.10.13 19:54:11 [INFO] SuperDuckFace failed Relog: relogs too fast. VL 1.
+13.10.15 18:38:29 [INFO] shavahn2003 failed Passable: moved into a block (155). VL 10.
+13.10.16 20:26:04 [INFO] danielschroeder failed Text: acted like spamming (IP: 110-32-71-201.meb800.vic.optusnet.com.au/110.32.71.201). VL 0.
+13.10.16 20:40:57 [INFO] R3creat3 failed Visible: interacts with a block out of sight. VL 5.
+13.10.18 18:56:15 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 140.
+13.10.18 18:56:17 [INFO] R3creat3 failed CreativeFly: tried to move from -6.71, 136.87, 5.41 to -6.34, 136.87, 6.70 over a distance of 1.34 block(s). VL 433.
+13.10.18 18:56:36 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 224.
+13.10.18 18:57:53 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 120.
+13.10.18 18:58:28 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 298.
+13.10.18 18:58:36 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 193.
+13.10.18 19:23:57 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 156.
+13.10.18 19:24:06 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 342.
+13.10.18 19:24:11 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 282.
+13.10.18 19:24:16 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 144.
+13.10.19 10:42:21 [INFO] FaazM failed Frequency: tried to break too many blocks within time frame. VL 8.
+13.10.19 11:32:43 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 104.
+13.10.19 11:32:46 [INFO] R3creat3 failed CreativeFly: tried to move from -1373.10, 102.76, -2073.56 to -1372.31, 102.76, -2072.45 over a distance of 1.37 block(s). VL 453.
+13.10.19 11:33:18 [INFO] R3creat3 failed CreativeFly: tried to move from -1374.29, 102.76, -2072.73 to -1375.40, 102.76, -2071.94 over a distance of 1.37 block(s). VL 503.
+13.10.19 19:21:06 [INFO] Evil_Emo failed Passable: moved into a block (1). VL 10.
+13.10.19 19:23:19 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 123.
+13.10.19 19:23:21 [INFO] R3creat3 failed CreativeFly: tried to move from 535.30, 74.15, -386.01 to 535.64, 74.15, -387.34 over a distance of 1.37 block(s). VL 450.
+13.10.20 00:23:26 [INFO] _Moist failed Reach: exceeds block-interact distance (251). VL 251.
+13.10.20 00:57:08 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.10.20 11:44:55 [INFO] _Moist failed Text: acted like spamming (IP: yport11.lnk.telstra.net/110.142.15.90). VL 1.
+13.10.20 13:18:46 [INFO] _Moist failed Relog: relogs too fast. VL 1.
+13.10.20 13:21:54 [INFO] R3creat3 failed Text: acted like spamming (IP: PE-121-220-57-44.lnse2.win.bigpond.net.au/121.220.57.44). VL 1.
+13.10.20 13:29:56 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 153.
+13.10.20 13:37:21 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 142.
+13.10.20 13:49:45 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 147.
+13.10.20 13:49:48 [INFO] R3creat3 failed CreativeFly: tried to move from 80.21, 85.00, 96.64 to 79.99, 85.00, 95.40 over a distance of 1.26 block(s). VL 436.
+13.10.20 18:01:26 [INFO] _Moist failed Improbable: meets the improbable more than expected. VL 12.
+13.10.20 18:01:49 [INFO] danielschroeder failed Text: acted like spamming (IP: PE-121-220-57-44.lnse2.win.bigpond.net.au/121.220.57.44). VL 2.
+13.10.20 18:01:59 [INFO] danielschroeder failed Text: acted like spamming (IP: PE-121-220-57-44.lnse2.win.bigpond.net.au/121.220.57.44). VL 2.
+13.10.20 18:02:49 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 152.
+13.10.21 01:25:57 [INFO] _Moist failed Relog: relogs too fast. VL 1.
+13.10.21 11:25:02 [INFO] Sky_Aurora failed Direction: tried to interact with a block out of his line of sight. VL 11.
+13.10.21 11:25:05 [INFO] Sky_Aurora failed Direction: tried to interact with a block out of his line of sight. VL 13.
+13.10.21 14:32:04 [INFO] Sky_Aurora failed Text: acted like spamming (IP: PE-121-216-203-170.lnse3.ken.bigpond.net.au/121.216.203.170). VL 2.
+13.10.21 19:07:29 [INFO] R3creat3 failed Commands: issued too many commands. VL 1.
+13.10.21 19:08:01 [INFO] HorrorRocks failed Text: acted like spamming (IP: 19-90-148-28.ip.adam.com.au/219.90.148.28). VL 1.
+13.10.21 19:21:02 [INFO] R3creat3 failed Commands: issued too many commands. VL 2.
+13.10.21 20:48:49 [INFO] _Moist failed Relog: relogs too fast. VL 1.
+13.10.21 21:51:33 [INFO] Evil_Emo failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.10.22 18:22:36 [INFO] R3creat3 failed Text: acted like spamming (IP: PE-124-181-21-47.lns7.win.bigpond.net.au/124.181.21.47). VL 1.
+13.10.22 20:05:39 [INFO] R3creat3 failed Commands: issued too many commands. VL 1.
+13.10.22 20:17:09 [INFO] Corrigan1998 failed Passable: moved into a block (2). VL 10.
+13.10.25 22:10:01 [INFO] _Arch_Rider failed CreativeFly: tried to move unexpectedly. VL 148.
+13.10.25 23:54:44 [INFO] Evil_Emo failed Passable: moved into a block (3). VL 10.
+13.10.25 23:57:31 [INFO] Evil_Emo failed Relog: relogs too fast. VL 1.
+13.10.26 18:17:39 [INFO] justchilln21 failed Passable: moved into a block (20). VL 10.
+13.10.26 19:45:35 [INFO] justchilln21 failed Visible: interacts with a block out of sight. VL 6.
+13.10.26 19:45:36 [INFO] justchilln21 failed Passable: moved into a block (20). VL 10.
+13.10.26 19:45:37 [INFO] justchilln21 failed Visible: interacts with a block out of sight. VL 11.
+13.10.26 20:09:55 [INFO] Lyssieloo failed Direction: tried to hit an entity out of line of sight. VL 7.
+13.10.26 20:32:45 [INFO] Corrigan1998 failed Passable: moved into a block (3). VL 10.
+13.10.26 20:32:45 [INFO] _Moist failed Passable: moved into a block (3). VL 10.
+13.10.27 18:44:34 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 152.
+13.10.27 18:44:36 [INFO] R3creat3 failed CreativeFly: tried to move from -296.73, 47.72, -233.71 to -295.74, 47.72, -234.61 over a distance of 1.34 block(s). VL 442.
+13.10.31 14:58:43 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 147.
+13.10.31 15:08:24 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 149.
+13.11.01 20:26:50 [INFO] LanderA failed Text: acted like spamming (IP: pp118-208-214-182.lns20.hba1.internode.on.net/118.208.214.182). VL 1.
+13.11.01 20:27:02 [INFO] R3creat3 failed Relog: relogs too fast. VL 1.
+13.11.01 20:50:21 [INFO] R3creat3 failed Relog: relogs too fast. VL 2.
+13.11.04 16:10:58 [INFO] LanderA failed Commands: issued too many commands. VL 1.
+13.11.04 16:13:38 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 117.
+13.11.04 16:13:54 [INFO] LanderA failed Passable: moved into a block (98). VL 10.
+13.11.05 15:38:53 [INFO] R3creat3 failed CreativeFly: tried to move unexpectedly. VL 143.
+13.11.05 20:01:09 [INFO] justchilln21 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+13.11.05 20:01:10 [INFO] justchilln21 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.11.07 19:20:20 [INFO] _Moist failed Passable: moved into a block (1). VL 10.
+13.11.07 19:44:18 [INFO] _Moist failed Speed: tried to throw projectiles too quickly. VL 207.
+13.11.07 20:19:11 [INFO] Corrigan1998 failed SurvivalFly: tried to move unexpectedly. VL 117.
+13.11.07 20:19:35 [INFO] Corrigan1998 failed SurvivalFly: tried to move unexpectedly. VL 31.
+13.11.07 20:22:05 [INFO] Corrigan1998 failed NoFall: tried to avoid fall damage. VL 1.
+13.11.09 20:16:38 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 314.
+13.11.09 20:16:39 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.11.09 20:16:43 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 423.
+13.11.09 20:16:44 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 1070.
+13.11.09 20:17:18 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 5.
+13.11.09 20:17:24 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 179.
+13.11.10 17:37:58 [INFO] SuperDuckFace failed Passable: moved into a block (12). VL 10.
+13.11.10 17:38:00 [INFO] SuperDuckFace failed Passable: moved into a block (12). VL 50.
+13.11.11 00:13:30 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.11.11 00:14:39 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 14.
+13.11.11 00:15:00 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 6.
+13.11.11 00:16:09 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 15.
+13.11.11 00:16:35 [INFO] kytron failed Speed: tried to throw projectiles too quickly. VL 270.
+13.11.11 00:16:37 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 4.
+13.11.11 00:16:41 [INFO] kytron failed Speed: tried to throw projectiles too quickly. VL 421.
+13.11.11 00:16:51 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 228.
+13.11.11 00:17:21 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 160.
+13.11.11 00:17:54 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 11.
+13.11.11 00:17:55 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 160.
+13.11.11 00:18:01 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 169.
+13.11.11 00:18:08 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 169.
+13.11.11 00:18:27 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 155.
+13.11.11 00:18:33 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 185.
+13.11.11 00:19:19 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.11.11 00:19:25 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 180.
+13.11.11 00:21:00 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 315.
+13.11.11 19:40:16 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 8.
+13.11.11 22:23:11 [INFO] SuperDuckFace failed Passable: moved into a block (1). VL 10.
+13.11.15 23:21:02 [INFO] Evil_Emo failed Reach: exceeds block-interact distance (252). VL 252.
+13.11.16 02:17:49 [INFO] Evil_Emo failed Reach: exceeds block-interact distance (253). VL 253.
+13.11.16 02:18:43 [INFO] Evil_Emo failed Reach: exceeds block-interact distance (253). VL 253.
+13.11.16 16:20:41 [INFO] Evil_Emo failed Reach: exceeds block-interact distance (254). VL 254.
+13.11.16 16:27:14 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 6.
+13.11.16 16:27:21 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 14.
+13.11.16 16:27:31 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 5.
+13.11.16 16:28:32 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 9.
+13.11.16 16:28:37 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 11.
+13.11.16 16:29:27 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 5.
+13.11.16 16:30:12 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 5.
+13.11.16 16:30:56 [INFO] ScruffyRules failed Frequency: tried to break too many blocks within time frame. VL 6.
+13.11.16 18:03:51 [INFO] shavahn2003 failed Text: acted like spamming (IP: ocalhost/127.0.0.1). VL 0.
+13.11.17 12:11:00 [INFO] SuperDuckFace failed Passable: moved into a block (80). VL 11.
+13.11.17 15:43:23 [INFO] Evil_Emo failed Relog: relogs too fast. VL 1.
+13.11.17 18:49:56 [INFO] SuperDuckFace failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+13.11.17 18:52:24 [INFO] ninsai failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+13.11.17 18:57:07 [INFO] ninsai failed Direction: tried to hit an entity out of line of sight. VL 5.
+13.11.17 18:59:28 [INFO] Turt1eManLol failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+13.11.17 18:59:51 [INFO] ScruffyRules failed Direction: tried to hit an entity out of line of sight. VL 5.
+13.11.17 19:04:23 [INFO] Turt1eManLol failed Direction: tried to hit an entity out of line of sight. VL 11.
+13.11.17 19:05:18 [INFO] Turt1eManLol failed Direction: tried to hit an entity out of line of sight. VL 11.
+13.11.17 19:13:47 [INFO] DeathKnight489 failed SurvivalFly: tried to move unexpectedly. VL 20.
+13.11.17 19:13:55 [INFO] DeathKnight489 failed SurvivalFly: tried to move unexpectedly. VL 16.
+13.11.17 19:14:02 [INFO] DeathKnight489 failed SurvivalFly: tried to move unexpectedly. VL 15.
+13.11.17 19:14:02 [INFO] DeathKnight489 failed SurvivalFly: tried to move unexpectedly. VL 226.
+13.11.17 19:14:09 [INFO] DeathKnight489 failed SurvivalFly: tried to move unexpectedly. VL 32.
+13.11.18 00:08:35 [INFO] OzJake24 failed Direction: tried to hit an entity out of line of sight. VL 26.
+13.11.18 00:08:35 [INFO] OzJake24 failed Direction: tried to hit an entity out of line of sight. VL 52.
+13.11.18 00:08:56 [INFO] OzJake24 failed Direction: tried to hit an entity out of line of sight. VL 209.
+13.11.18 00:14:20 [INFO] OzJake24 failed Direction: tried to hit an entity out of line of sight. VL 96.
+13.11.18 00:23:53 [INFO] kytron failed Commands: issued too many commands. VL 1.
+13.11.18 00:33:27 [INFO] OzJake24 failed Direction: tried to hit an entity out of line of sight. VL 33.
+13.11.19 21:48:43 [INFO] OzJake24 failed Direction: tried to hit an entity out of line of sight. VL 9.
+13.11.19 21:48:49 [INFO] OzJake24 failed Direction: tried to hit an entity out of line of sight. VL 6.
+13.11.19 21:48:55 [INFO] OzJake24 failed Direction: tried to hit an entity out of line of sight. VL 6.
+13.11.19 21:50:07 [INFO] OzJake24 failed Direction: tried to hit an entity out of line of sight. VL 15.
+13.11.19 21:50:33 [INFO] OzJake24 failed Direction: tried to hit an entity out of line of sight. VL 13.
+13.11.21 17:25:04 [INFO] DynaDavidson failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.11.21 17:28:23 [INFO] DynaDavidson failed Visible: interacts with a block out of sight. VL 6.
+13.11.21 19:00:24 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 15.
+13.11.21 19:00:30 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 36.
+13.11.21 19:00:31 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 13.
+13.11.21 19:00:34 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 116.
+13.11.21 19:00:37 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 12.
+13.11.21 19:00:37 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 73.
+13.11.21 19:00:39 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 117.
+13.11.21 19:00:42 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 8.
+13.11.21 19:00:44 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 157.
+13.11.21 19:00:48 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 11.
+13.11.21 19:00:49 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 221.
+13.11.21 19:00:54 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 101.
+13.11.21 19:00:55 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 93.
+13.11.21 19:00:59 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 127.
+13.11.21 19:01:00 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 10.
+13.11.21 19:01:02 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 80.
+13.11.21 19:01:04 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 113.
+13.11.21 19:01:09 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 75.
+13.11.21 19:01:09 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 5.
+13.11.21 19:01:16 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 16.
+13.11.21 19:01:17 [INFO] SuperDuckFace failed CreativeFly: tried to move unexpectedly. VL 34.
+13.11.21 19:01:25 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 106.
+13.11.21 19:01:39 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 61.
+13.11.21 19:02:03 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 25.
+13.11.21 19:02:29 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 25.
+13.11.21 19:04:00 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 60.
+13.11.21 19:04:02 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 119.
+13.11.21 19:04:07 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 249.
+13.11.21 19:04:12 [INFO] ScruffyRules failed CreativeFly: tried to move unexpectedly. VL 351.
+13.11.21 19:04:13 [INFO] ScruffyRules failed CreativeFly: tried to move from -2.98, 35.00, -14.06 to -3.40, 35.00, -13.58 over a distance of 0.64 block(s). VL 400.
+13.11.21 19:04:18 [INFO] ScruffyRules failed CreativeFly: tried to move from -0.09, 35.00, -6.96 to -0.98, 35.00, -8.48 over a distance of 1.76 block(s). VL 554.
+13.11.21 19:04:23 [INFO] ScruffyRules failed CreativeFly: tried to move from 2.81, 35.00, -2.00 to 3.41, 35.00, -0.98 over a distance of 1.19 block(s). VL 564.
+13.11.21 19:04:28 [INFO] ScruffyRules failed CreativeFly: tried to move from 5.12, 35.00, 0.32 to 4.49, 35.00, 0.21 over a distance of 0.64 block(s). VL 523.
+13.11.21 19:05:52 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 11.
+13.11.21 19:06:00 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 17.
+13.11.21 19:09:33 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 313.
+13.11.21 19:09:34 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.11.21 19:10:08 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 248.
+13.11.21 19:20:24 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 16.
+13.11.22 23:30:07 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.11.22 23:31:47 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 12.
+13.11.22 23:32:03 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 314.
+13.11.22 23:32:46 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 4.
+13.11.22 23:32:55 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 5.
+13.11.22 23:47:38 [INFO] ScruffyRules failed Improbable: meets the improbable more than expected. VL 14.
+13.11.22 23:52:54 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 265.
+13.11.23 00:04:12 [INFO] ScruffyRules failed Speed: tried to throw projectiles too quickly. VL 293.
+13.11.23 19:05:12 [INFO] ninsai failed Speed: tried to throw projectiles too quickly. VL 228.
+13.11.23 19:05:17 [INFO] ninsai failed Speed: tried to throw projectiles too quickly. VL 384.
+13.11.23 19:05:22 [INFO] ninsai failed Speed: tried to throw projectiles too quickly. VL 323.
+13.11.23 19:12:22 [INFO] kytron failed Speed: tried to throw projectiles too quickly. VL 315.
+13.11.23 19:32:47 [INFO] kytron failed Direction: tried to interact with a block out of his line of sight. VL 10.
+13.11.23 19:32:50 [INFO] kytron failed Direction: tried to interact with a block out of his line of sight. VL 17.
+13.11.23 19:49:21 [INFO] kytron failed Direction: tried to hit an entity out of line of sight. VL 8.
+13.11.23 23:08:04 [INFO] kytron failed Passable: moved into a block (80). VL 10.
+13.11.24 00:21:35 [INFO] FaazM failed Direction: tried to interact with a block out of his line of sight. VL 10.
+13.11.24 00:21:56 [INFO] FaazM failed Direction: tried to interact with a block out of his line of sight. VL 12.
+13.11.24 00:22:02 [INFO] FaazM failed Direction: tried to interact with a block out of his line of sight. VL 13.
+13.11.24 00:22:15 [INFO] FaazM failed Direction: tried to interact with a block out of his line of sight. VL 15.
+13.11.24 00:22:18 [INFO] FaazM failed Direction: tried to interact with a block out of his line of sight. VL 18.
+13.11.24 15:27:58 [INFO] JacquiRose failed Commands: issued too many commands. VL 1.
+13.11.24 16:16:21 [INFO] eazyrider101 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.11.24 16:16:21 [INFO] JacquiRose failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.11.24 18:21:40 [INFO] _Arch_Rider failed Reach: exceeds block-interact distance (251). VL 251.
+13.11.24 18:21:42 [INFO] _Arch_Rider failed Reach: exceeds block-interact distance (251). VL 752.
+13.11.24 20:40:24 [INFO] ViolentShadow failed Visible: interacts with a block out of sight. VL 5.
+13.11.24 23:25:52 [INFO] ScruffyRules failed Commands: issued too many commands. VL 1.
+13.11.25 18:06:17 [INFO] ninsai failed Passable: moved into a block (1). VL 10.
+13.11.25 19:12:07 [INFO] SuperDuckFace failed Relog: relogs too fast. VL 1.
+13.11.26 01:09:41 [INFO] NobleFable failed CreativeFly: tried to move unexpectedly. VL 170.
+13.11.27 19:13:25 [INFO] the_green_guy failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.11.27 19:45:06 [INFO] meganlovesmusic failed Relog: relogs too fast. VL 1.
+13.11.27 19:57:19 [INFO] meganlovesmusic failed Text: acted like spamming (IP: ocalhost/127.0.0.1). VL 1.
+13.11.29 20:32:25 [INFO] diman156 failed Relog: relogs too fast. VL 1.
+13.11.30 12:21:02 [INFO] ImSoRandom111 failed Speed: tried to attack with too high a frequency. VL 2.
+13.11.30 13:55:51 [INFO] DynaDavidson failed Relog: relogs too fast. VL 1.
+13.11.30 14:18:51 [INFO] DynaDavidson failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.11.30 14:23:45 [INFO] meganlovesmusic failed Text: acted like spamming (IP: ocalhost/127.0.0.1). VL 3.
+13.11.30 16:32:04 [INFO] _Moist failed Direction: tried to interact with a block out of his line of sight. VL 14.
+13.11.30 20:32:21 [INFO] ScruffyRules failed Text: acted like spamming (IP: ocalhost/127.0.0.1). VL 1.
+13.11.30 20:36:38 [INFO] danielschroeder failed Text: acted like spamming (IP: ocalhost/127.0.0.1). VL 1.
+13.11.30 20:37:04 [INFO] danielschroeder failed Text: acted like spamming (IP: ocalhost/127.0.0.1). VL 0.
+13.12.01 17:54:06 [INFO] ViolentShadow failed Visible: interacts with a block out of sight. VL 6.
+13.12.01 18:03:30 [INFO] SuperDuckFace failed CreativeFly: tried to move from -20.50, 72.00, -46.50 to -28.50, 71.00, -45.50 over a distance of 8.12 block(s). VL 746.
+13.12.01 18:03:35 [INFO] SuperDuckFace failed CreativeFly: tried to move from -20.50, 72.00, -46.50 to -28.50, 71.00, -45.50 over a distance of 8.12 block(s). VL 5852.
+13.12.01 18:03:41 [INFO] SuperDuckFace failed CreativeFly: tried to move from -20.50, 72.00, -46.50 to -30.50, 71.00, -47.50 over a distance of 10.10 block(s). VL 4181.
+13.12.01 18:03:50 [INFO] SuperDuckFace failed CreativeFly: tried to move from -28.50, 71.00, -45.50 to -20.50, 72.00, -46.50 over a distance of 8.12 block(s). VL 5877.
+13.12.01 19:02:52 [INFO] Yuzko failed Improbable: meets the improbable more than expected. VL 16.
+13.12.01 20:06:47 [INFO] DynaDavidson failed Relog: relogs too fast. VL 1.
+13.12.02 17:31:44 [INFO] jslsa failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.02 17:40:18 [INFO] CreeperDaWeeper failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.02 17:51:53 [INFO] LanderA failed Text: acted like spamming (IP: ocalhost/127.0.0.1). VL 0.
+13.12.02 18:14:28 [INFO] SuperDuckFace failed Passable: moved into a block (2). VL 10.
+13.12.02 18:14:28 [INFO] Geedubs01 failed Passable: moved into a block (2). VL 10.
+13.12.02 18:14:28 [INFO] Geedubs01 failed Passable: moved into a block (2). VL 50.
+13.12.02 18:14:29 [INFO] SuperDuckFace failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.02 19:23:52 [INFO] Yuzko failed Text: acted like spamming (IP: ocalhost/127.0.0.1). VL 0.
+13.12.02 19:44:31 [INFO] Rynocraft failed Visible: interacts with a block out of sight. VL 5.
+13.12.02 19:44:33 [INFO] Rynocraft failed Visible: interacts with a block out of sight. VL 8.
+13.12.02 19:44:37 [INFO] Rynocraft failed Visible: interacts with a block out of sight. VL 10.
+13.12.03 19:48:28 [INFO] BlueVortexed failed Direction: tried to hit an entity out of line of sight. VL 10.
+13.12.03 19:48:53 [INFO] BlueVortexed failed Direction: tried to hit an entity out of line of sight. VL 16.
+13.12.03 19:48:54 [INFO] BlueVortexed failed Direction: tried to hit an entity out of line of sight. VL 20.
+13.12.03 19:49:10 [INFO] BlueVortexed failed Direction: tried to hit an entity out of line of sight. VL 6.
+13.12.03 19:49:11 [INFO] BlueVortexed failed Speed: tried to attack with too high a frequency. VL 2.
+13.12.03 19:56:18 [INFO] Rynocraft failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+13.12.03 20:04:23 [INFO] Rynocraft failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 99.
+13.12.03 20:04:38 [INFO] Rynocraft failed Direction: tried to hit an entity out of line of sight. VL 11.
+13.12.03 20:04:54 [INFO] Rynocraft failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 149.
+13.12.06 17:44:22 [INFO] BlueVortexed failed Passable: moved into a block (2). VL 10.
+13.12.06 17:51:57 [INFO] Rynocraft failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.07 11:11:52 [INFO] Rynocraft failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.08 12:29:09 [INFO] ScruffyRules failed Direction: tried to interact with a block out of his line of sight. VL 10.
+13.12.08 12:51:16 [INFO] Rynocraft failed Commands: issued too many commands. VL 1.
+13.12.09 16:21:10 [INFO] aeroy0723 failed Passable: moved into a block (80). VL 10.
+13.12.09 17:50:11 [INFO] aeroy0723 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.09 19:48:07 [INFO] _Moist failed Relog: relogs too fast. VL 1.
+13.12.09 20:59:42 [INFO] Turt1eManLol failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.09 20:59:43 [INFO] Evil_Emo failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.10 07:15:48 [INFO] ScruffyRules failed Visible: interacts with a block out of sight. VL 5.
+13.12.11 19:10:14 [INFO] DeathKnight489 failed Speed: tried to throw projectiles too quickly. VL 227.
+13.12.11 23:01:10 [INFO] Evil_Emo failed Text: acted like spamming (IP: 03.33.121.41/203.33.121.41). VL 0.
+13.12.11 23:03:55 [INFO] Evil_Emo failed CreativeFly: tried to move unexpectedly. VL 91.
+13.12.11 23:03:55 [INFO] Evil_Emo failed CreativeFly: tried to move unexpectedly. VL 113.
+13.12.12 17:52:34 [INFO] Geedubs01 failed Direction: tried to interact with a block out of his line of sight. VL 12.
+13.12.12 17:52:49 [INFO] meganlovesmusic failed SurvivalFly: tried to move from -48.04, -262.08, -132.70 to -48.03, -254.89, -132.72 over a distance of 7.19 block(s). VL 449.
+13.12.12 17:53:58 [INFO] Geedubs01 failed Direction: tried to interact with a block out of his line of sight. VL 12.
+13.12.12 17:53:58 [INFO] bumsonfire failed Direction: tried to interact with a block out of his line of sight. VL 14.
+13.12.12 17:54:00 [INFO] bumsonfire failed Direction: tried to hit an entity out of line of sight. VL 16.
+13.12.12 17:54:01 [INFO] bumsonfire failed Direction: tried to interact with a block out of his line of sight. VL 16.
+13.12.12 17:54:02 [INFO] bumsonfire failed Direction: tried to hit an entity out of line of sight. VL 22.
+13.12.12 17:55:30 [INFO] bumsonfire failed Direction: tried to hit an entity out of line of sight. VL 19.
+13.12.12 17:55:30 [INFO] bumsonfire failed Direction: tried to hit an entity out of line of sight. VL 23.
+13.12.13 18:24:17 [INFO] meganlovesmusic failed Relog: relogs too fast. VL 1.
+13.12.13 23:30:32 [INFO] ep1cn00bt00b failed Direction: tried to interact with a block out of his line of sight. VL 13.
+13.12.13 23:32:20 [INFO] ep1cn00bt00b failed Visible: interacts with a block out of sight. VL 6.
+13.12.13 23:39:41 [INFO] ep1cn00bt00b failed Direction: tried to interact with a block out of his line of sight. VL 10.
+13.12.14 16:29:18 [INFO] fkBear failed Reach: exceeds block-interact distance (252). VL 252.
+13.12.15 14:15:04 [INFO] ViolentShadow failed Reach: exceeds block-interact distance (250). VL 250.
+13.12.17 20:14:07 [INFO] SuperDuckFace failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.17 20:20:40 [INFO] beadycottonwood failed Passable: moved into a block (3). VL 11.
+13.12.17 20:34:22 [INFO] Evil_Emo failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.17 22:15:36 [INFO] DARKBRITENESS failed SurvivalFly: tried to move unexpectedly. VL 102.
+13.12.17 22:15:44 [INFO] DARKBRITENESS failed SurvivalFly: tried to move unexpectedly. VL 102.
+13.12.17 22:44:43 [INFO] ScruffyRules failed Reach: exceeds block-interact distance (252). VL 252.
+13.12.18 15:38:46 [INFO] ImSoRandom111 failed Speed: tried to throw projectiles too quickly. VL 283.
+13.12.18 15:38:46 [INFO] ImSoRandom111 failed Speed: tried to throw projectiles too quickly. VL 1127.
+13.12.19 01:09:47 [INFO] ViolentShadow failed Passable: moved into a block (3). VL 10.
+13.12.19 01:09:48 [INFO] ViolentShadow failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.19 01:11:44 [INFO] DARKBRITENESS failed Relog: relogs too fast. VL 1.
+13.12.19 02:46:17 [INFO] ScruffyRules failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+13.12.19 02:46:40 [INFO] ScruffyRules failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 99.
+13.12.19 18:01:23 [INFO] ScruffyRules failed Text: acted like spamming (IP: 03.33.121.41/203.33.121.41). VL 1.
+13.12.20 21:01:06 [INFO] ninsai failed Visible: interacts with a block out of sight. VL 5.
+13.12.21 03:57:40 [INFO] ViolentShadow failed Passable: moved into a block (1). VL 11.
+13.12.21 19:53:47 [INFO] fkBear failed Passable: moved into a block (1). VL 10.
+13.12.22 12:56:36 [INFO] meganlovesmusic failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.22 14:15:02 [INFO] _Moist failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+13.12.22 14:15:22 [INFO] _Moist failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 65.
+13.12.22 14:16:38 [INFO] _Moist failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 132.
+13.12.22 14:22:47 [INFO] StewPetasuarus failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+13.12.22 14:24:16 [INFO] _Moist failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 147.
+13.12.22 14:29:11 [INFO] WiiiFreak123 failed Speed: tried to throw projectiles too quickly. VL 197.
+13.12.22 14:38:59 [INFO] BlueVortexed failed Speed: tried to throw projectiles too quickly. VL 287.
+13.12.22 14:38:59 [INFO] BlueVortexed failed Speed: tried to throw projectiles too quickly. VL 1139.
+13.12.22 14:42:24 [INFO] BlueVortexed failed Speed: tried to throw projectiles too quickly. VL 313.
+13.12.22 14:42:24 [INFO] BlueVortexed failed Speed: tried to throw projectiles too quickly. VL 1165.
+13.12.22 14:42:54 [INFO] WiiiFreak123 failed Speed: tried to throw projectiles too quickly. VL 237.
+13.12.22 19:21:44 [INFO] fkBear failed Commands: issued too many commands. VL 1.
+13.12.22 19:28:27 [INFO] BlueVortexed failed Passable: moved into a block (2). VL 10.
+13.12.23 15:56:19 [INFO] BlueVortexed failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.23 19:40:37 [INFO] Geedubs01 failed Speed: tried to throw projectiles too quickly. VL 314.
+13.12.24 14:51:20 [INFO] BlueVortexed failed Passable: moved into a block (7). VL 10.
+13.12.24 15:48:31 [INFO] WiiiFreak123 failed Passable: moved into a block (2). VL 10.
+13.12.24 15:52:29 [INFO] BlueVortexed failed Direction: tried to interact with a block out of his line of sight. VL 13.
+13.12.26 04:28:57 [INFO] _Moist failed Relog: relogs too fast. VL 1.
+13.12.26 12:25:55 [INFO] Evil_Emo failed Commands: issued too many commands. VL 1.
+13.12.26 12:36:07 [INFO] Evil_Emo failed Commands: issued too many commands. VL 2.
+13.12.26 14:02:36 [INFO] Evil_Emo failed Direction: tried to interact with a block out of his line of sight. VL 11.
+13.12.26 15:44:33 [INFO] Mr_Mandorian failed Visible: interacts with a block out of sight. VL 6.
+13.12.26 16:03:31 [INFO] qwerty29423 failed Reach: exceeds block-interact distance (253). VL 253.
+13.12.26 16:03:33 [INFO] qwerty29423 failed Reach: exceeds block-interact distance (254). VL 761.
+13.12.26 16:15:17 [INFO] Evil_Emo failed Commands: issued too many commands. VL 1.
+13.12.26 17:04:51 [INFO] Turt1eManLol failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.27 23:17:50 [INFO] BlueVortexed failed Direction: tried to hit an entity out of line of sight. VL 5.
+13.12.27 23:17:59 [INFO] BlueVortexed failed Direction: tried to hit an entity out of line of sight. VL 5.
+13.12.27 23:18:38 [INFO] BlueVortexed failed Direction: tried to hit an entity out of line of sight. VL 6.
+13.12.27 23:18:44 [INFO] BlueVortexed failed Direction: tried to hit an entity out of line of sight. VL 7.
+13.12.27 23:18:49 [INFO] BlueVortexed failed Direction: tried to hit an entity out of line of sight. VL 6.
+13.12.27 23:18:55 [INFO] BlueVortexed failed Direction: tried to hit an entity out of line of sight. VL 5.
+13.12.27 23:23:12 [INFO] BlueVortexed failed Angle: tried to hit multiple entities at the same time. VL 250.
+13.12.27 23:23:54 [INFO] Rynocraft failed SurvivalFly: tried to move unexpectedly. VL 12.
+13.12.27 23:25:05 [INFO] Rynocraft failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+13.12.27 23:32:43 [INFO] Rynocraft failed SurvivalFly: tried to move unexpectedly. VL 11.
+13.12.27 23:32:45 [INFO] BlueVortexed failed Angle: tried to hit multiple entities at the same time. VL 265.
+13.12.27 23:32:57 [INFO] BlueVortexed failed Angle: tried to hit multiple entities at the same time. VL 270.
+13.12.27 23:33:13 [INFO] Rynocraft failed SurvivalFly: tried to move unexpectedly. VL 3.
+13.12.27 23:34:46 [INFO] Rynocraft failed SurvivalFly: tried to move unexpectedly. VL 5.
+13.12.28 20:01:51 [INFO] Rynocraft failed Speed: tried to throw projectiles too quickly. VL 243.
+13.12.28 20:01:56 [INFO] Rynocraft failed Speed: tried to throw projectiles too quickly. VL 365.
+13.12.28 20:02:01 [INFO] Rynocraft failed Speed: tried to throw projectiles too quickly. VL 505.
+13.12.28 20:02:06 [INFO] Rynocraft failed Speed: tried to throw projectiles too quickly. VL 588.
+13.12.28 20:02:11 [INFO] Rynocraft failed Speed: tried to throw projectiles too quickly. VL 638.
+13.12.28 20:06:35 [INFO] 123Oblivious failed Text: acted like spamming (IP: 122-106-85-136.randw3.nsw.optusnet.com.au/122.106.85.136). VL 2.
+13.12.28 20:19:38 [INFO] _Moist failed Visible: interacts with a block out of sight. VL 6.
+13.12.28 20:32:40 [INFO] DynaDavidson failed Direction: tried to hit an entity out of line of sight. VL 11.
+13.12.29 00:12:00 [INFO] StewPetasuarus failed Visible: interacts with a block out of sight. VL 5.
+13.12.29 12:07:39 [INFO] Rynocraft failed Visible: interacts with a block out of sight. VL 5.
+13.12.30 13:48:28 [INFO] minecrafter32324 failed Passable: moved into a block (80). VL 11.
+13.12.30 13:48:33 [INFO] minecrafter32324 failed Passable: moved into a block (80). VL 37.
+13.12.30 13:48:35 [INFO] minecrafter32324 failed Passable: moved into a block (80). VL 51.
+13.12.30 13:48:40 [INFO] minecrafter32324 failed Passable: moved into a block (80). VL 79.
+13.12.30 13:48:45 [INFO] minecrafter32324 failed Passable: moved into a block (80). VL 110.
+13.12.30 16:06:39 [INFO] BlueVortexed failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.30 16:06:55 [INFO] BlueVortexed failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+13.12.30 16:24:00 [INFO] BlueVortexed failed CreativeFly: tried to move unexpectedly. VL 40.
+14.01.01 01:38:10 [INFO] _Moist failed CreativeFly: tried to move unexpectedly. VL 82.
+14.01.01 01:38:14 [INFO] _Moist failed CreativeFly: tried to move unexpectedly. VL 111.
+14.01.01 01:38:21 [INFO] BlueVortexed failed CreativeFly: tried to move unexpectedly. VL 78.
+14.01.01 01:38:22 [INFO] BlueVortexed failed CreativeFly: tried to move unexpectedly. VL 104.
+14.01.01 01:38:29 [INFO] BlueVortexed failed CreativeFly: tried to move unexpectedly. VL 124.
+14.01.01 01:38:35 [INFO] BlueVortexed failed CreativeFly: tried to move unexpectedly. VL 94.
+14.01.01 01:38:36 [INFO] BlueVortexed failed CreativeFly: tried to move unexpectedly. VL 117.
+14.01.01 01:38:41 [INFO] BlueVortexed failed CreativeFly: tried to move unexpectedly. VL 196.
+14.01.01 01:39:00 [INFO] _Moist failed CreativeFly: tried to move unexpectedly. VL 41.
+14.01.01 01:39:02 [INFO] _Moist failed CreativeFly: tried to move unexpectedly. VL 122.
+14.01.01 02:03:19 [INFO] BlueVortexed failed CreativeFly: tried to move unexpectedly. VL 104.
+14.01.01 02:03:19 [INFO] ep1cn00bt00b failed CreativeFly: tried to move from -23.56, 65.00, -66.25 to -23.25, 65.00, -58.89 over a distance of 7.37 block(s). VL 677.
+14.01.01 02:34:56 [INFO] ep1cn00bt00b failed SurvivalFly: tried to move unexpectedly. VL 125.
+14.01.01 02:42:24 [INFO] ep1cn00bt00b failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 99.
+14.01.01 02:46:22 [INFO] ep1cn00bt00b failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 101.
+14.01.01 02:47:02 [INFO] ep1cn00bt00b failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 102.
+14.01.01 02:48:30 [INFO] ep1cn00bt00b failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 103.
+14.01.01 02:50:31 [INFO] ep1cn00bt00b failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.01.01 02:50:36 [INFO] ep1cn00bt00b failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.01.01 02:50:39 [INFO] ep1cn00bt00b failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.01.01 11:13:43 [INFO] minecrafter32324 failed Passable: moved into a block (4). VL 10.
+14.01.01 11:13:50 [INFO] minecrafter32324 failed Passable: moved into a block (4). VL 39.
+14.01.01 11:14:42 [INFO] minecrafter32324 failed Passable: moved into a block (1). VL 10.
+14.01.02 19:35:56 [INFO] BlueVortexed failed CreativeFly: tried to move from -113.16, 71.00, -119.95 to -117.91, 72.25, -120.23 over a distance of 4.92 block(s). VL 436.
+14.01.02 19:36:08 [INFO] BlueVortexed failed CreativeFly: tried to move from -118.36, 73.49, -110.65 to -115.45, 74.50, -126.59 over a distance of 16.24 block(s). VL 2356.
+14.01.03 14:36:04 [INFO] meganlovesmusic failed Text: acted like spamming (IP: PE-58-166-114-231.lnse5.cht.bigpond.net.au/58.166.114.231). VL 2.
+14.01.03 15:53:34 [INFO] Fliine failed Text: acted like spamming (IP: pp118-208-237-183.lns20.hba2.internode.on.net/118.208.237.183). VL 1.
+14.01.03 15:54:51 [INFO] Fliine failed Text: acted like spamming (IP: pp118-208-237-183.lns20.hba2.internode.on.net/118.208.237.183). VL 3.
+14.01.03 16:22:27 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.04 13:01:17 [INFO] BlueVortexed failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.01.04 13:04:38 [INFO] BlueVortexed failed SurvivalFly: tried to move unexpectedly. VL 3.
+14.01.04 13:12:05 [INFO] ImSoRandom111 failed Speed: tried to attack with too high a frequency. VL 2.
+14.01.04 13:12:40 [INFO] ImSoRandom111 failed Speed: tried to attack with too high a frequency. VL 4.
+14.01.04 13:33:59 [INFO] BlueVortexed failed SurvivalFly: tried to move unexpectedly. VL 10.
+14.01.04 13:43:32 [INFO] BlueVortexed failed SurvivalFly: tried to move unexpectedly. VL 2.
+14.01.04 13:43:44 [INFO] BlueVortexed failed SurvivalFly: tried to move unexpectedly. VL 5.
+14.01.04 13:45:49 [INFO] BlueVortexed failed SurvivalFly: tried to move unexpectedly. VL 5.
+14.01.04 13:46:10 [INFO] BlueVortexed failed SurvivalFly: tried to move unexpectedly. VL 0.
+14.01.04 13:47:32 [INFO] BlueVortexed failed SurvivalFly: tried to move unexpectedly. VL 71.
+14.01.04 13:47:33 [INFO] BlueVortexed failed SurvivalFly: tried to move unexpectedly. VL 120.
+14.01.04 14:01:35 [INFO] SecretSeriosity failed CreativeFly: tried to move unexpectedly. VL 17.
+14.01.04 16:37:36 [INFO] ninsai failed CreativeFly: tried to move from 1.63, 67.11, 6.54 to 2.50, 72.38, 2.44 over a distance of 6.73 block(s). VL 786.
+14.01.04 16:39:02 [INFO] ninsai failed CreativeFly: tried to move unexpectedly. VL 161.
+14.01.04 16:39:21 [INFO] ninsai failed CreativeFly: tried to move unexpectedly. VL 389.
+14.01.04 21:27:00 [INFO] DynaDavidson failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.07 19:19:57 [INFO] Boomyay failed Relog: relogs too fast. VL 1.
+14.01.07 22:26:10 [INFO] Fameously failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.08 13:48:56 [INFO] Boomyay failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.08 13:56:27 [INFO] _Trezo_ failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.08 14:01:56 [INFO] Boomyay failed Passable: moved into a block (5). VL 10.
+14.01.08 15:50:37 [INFO] meganlovesmusic failed Commands: issued too many commands. VL 1.
+14.01.08 16:19:04 [INFO] meganlovesmusic failed Commands: issued too many commands. VL 2.
+14.01.10 09:35:18 [INFO] _Trezo_ failed Passable: moved into a block (1). VL 10.
+14.01.10 14:10:58 [INFO] ep1cn00bt00b failed SurvivalFly: tried to move unexpectedly. VL 14.
+14.01.10 14:11:19 [INFO] ep1cn00bt00b failed SurvivalFly: tried to move unexpectedly. VL 14.
+14.01.10 14:40:53 [INFO] ep1cn00bt00b failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.01.10 14:40:58 [INFO] ep1cn00bt00b failed Direction: tried to hit an entity out of line of sight. VL 13.
+14.01.10 14:41:09 [INFO] fkBear failed Direction: tried to hit an entity out of line of sight. VL 17.
+14.01.10 14:41:12 [INFO] ep1cn00bt00b failed Direction: tried to hit an entity out of line of sight. VL 19.
+14.01.10 14:41:15 [INFO] fkBear failed Direction: tried to hit an entity out of line of sight. VL 13.
+14.01.10 14:41:24 [INFO] fkBear failed Direction: tried to hit an entity out of line of sight. VL 5.
+14.01.10 14:44:51 [INFO] ep1cn00bt00b failed SurvivalFly: tried to move unexpectedly. VL 13.
+14.01.10 22:24:05 [INFO] Boomyay failed Passable: moved into a block (3). VL 10.
+14.01.10 22:24:06 [INFO] Boomyay failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.10 22:50:50 [INFO] Boomyay failed Passable: moved into a block (1). VL 10.
+14.01.11 12:18:46 [INFO] broddikill failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.11 12:21:03 [INFO] broddikill failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.13 15:24:31 [INFO] Geedubs01 failed Speed: tried to throw projectiles too quickly. VL 180.
+14.01.13 15:24:36 [INFO] Geedubs01 failed Speed: tried to throw projectiles too quickly. VL 177.
+14.01.13 15:24:41 [INFO] Geedubs01 failed Speed: tried to throw projectiles too quickly. VL 186.
+14.01.13 15:24:46 [INFO] Geedubs01 failed Speed: tried to throw projectiles too quickly. VL 194.
+14.01.13 22:21:01 [INFO] BlueVortexed failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.01.14 15:51:01 [INFO] Boomyay failed Passable: moved into a block (2). VL 10.
+14.01.14 15:56:39 [INFO] minecrafter32324 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.14 21:18:32 [INFO] 123Oblivious failed Passable: moved into a block (1). VL 10.
+14.01.15 09:24:24 [INFO] minecrafter32324 failed Passable: moved into a block (1). VL 11.
+14.01.15 14:34:02 [INFO] reub_youtube failed Text: acted like spamming (IP: 14-30-104-184.ip.adam.com.au/114.30.104.184). VL 0.
+14.01.15 15:29:46 [INFO] meganlovesmusic failed Text: acted like spamming (IP: PE-110-147-177-89.nhl8.cht.bigpond.net.au/110.147.177.89). VL 2.
+14.01.15 15:33:51 [INFO] meganlovesmusic failed Text: acted like spamming (IP: PE-110-147-177-89.nhl8.cht.bigpond.net.au/110.147.177.89). VL 1.
+14.01.15 15:34:39 [INFO] meganlovesmusic failed Text: acted like spamming (IP: PE-110-147-177-89.nhl8.cht.bigpond.net.au/110.147.177.89). VL 1.
+14.01.15 17:54:32 [INFO] meganlovesmusic failed Text: acted like spamming (IP: PE-110-147-177-89.nhl8.cht.bigpond.net.au/110.147.177.89). VL 1.
+14.01.15 19:48:56 [INFO] shavahn2003 failed Relog: relogs too fast. VL 1.
+14.01.15 23:08:24 [INFO] Kooper94 failed Speed: tried to attack with too high a frequency. VL 2.
+14.01.15 23:19:37 [INFO] Kooper94 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.01.15 23:25:13 [INFO] Kooper94 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 99.
+14.01.16 19:41:01 [INFO] Geedubs01 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.17 00:28:40 [INFO] Rynocraft failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.01.17 00:39:47 [INFO] Kooper94 failed Passable: moved into a block (24). VL 10.
+14.01.17 14:59:45 [INFO] xZizle123 failed Passable: moved into a block (7). VL 10.
+14.01.17 14:59:45 [INFO] xZizle123 failed Passable: moved into a block (7). VL 50.
+14.01.17 15:23:57 [INFO] darkopps failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.17 15:31:39 [INFO] 123Oblivious failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.17 16:23:54 [INFO] ViolentShadow failed Relog: relogs too fast. VL 1.
+14.01.17 20:14:38 [INFO] ViolentShadow failed Passable: moved into a block (12). VL 10.
+14.01.17 21:06:10 [INFO] danielschroeder failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.01.17 21:09:25 [INFO] danielschroeder failed Commands: issued too many commands. VL 1.
+14.01.18 23:49:53 [INFO] xZizle123 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.19 00:10:02 [INFO] xZizle123 failed Passable: moved into a block (1). VL 10.
+14.01.19 00:10:50 [INFO] beadycottonwood failed Passable: moved into a block (1). VL 10.
+14.01.19 17:10:05 [INFO] zdav2002 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.19 17:30:31 [INFO] zdav2002 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.19 18:34:29 [INFO] meganlovesmusic failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.19 18:34:29 [INFO] Geedubs01 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.19 18:51:12 [INFO] Geedubs01 failed Passable: moved into a block (17). VL 11.
+14.01.19 19:23:12 [INFO] minecrafter32324 failed Reach: exceeds block-interact distance (251). VL 251.
+14.01.19 19:45:29 [INFO] broddikill failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.19 19:56:44 [INFO] JacquiRose failed Commands: issued too many commands. VL 1.
+14.01.19 20:03:04 [INFO] zdav2002 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.19 21:00:37 [INFO] JacquiRose failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.19 22:25:43 [INFO] xZizle123 failed Text: acted like spamming (IP: PE-124-178-35-184.lns1.pie.bigpond.net.au/124.178.35.184). VL 1.
+14.01.20 00:43:52 [INFO] JacquiRose failed Commands: issued too many commands. VL 1.
+14.01.20 12:56:41 [INFO] JacquiRose failed Commands: issued too many commands. VL 2.
+14.01.20 18:16:08 [INFO] xZizle123 failed Text: acted like spamming (IP: PE-124-178-35-184.lns1.pie.bigpond.net.au/124.178.35.184). VL 0.
+14.01.20 19:19:55 [INFO] JacquiRose failed Passable: moved into a block (19). VL 10.
+14.01.20 20:44:38 [INFO] danielschroeder failed Text: acted like spamming (IP: 114-78-175-138.meb801.vic.optusnet.com.au/114.78.175.138). VL 0.
+14.01.21 15:05:41 [INFO] JacquiRose failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.21 18:16:59 [INFO] Kooper94 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.21 18:51:08 [INFO] NitroNinja590 failed Passable: moved into a block (3). VL 10.
+14.01.21 18:54:40 [INFO] NitroNinja590 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.21 19:16:20 [INFO] Boomyay failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.21 19:22:37 [INFO] JacquiRose failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.21 19:31:06 [INFO] minecrafter32324 failed Speed: tried to throw projectiles too quickly. VL 270.
+14.01.21 20:33:07 [INFO] Boomyay failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.21 21:15:03 [INFO] Kooper94 failed CreativeFly: tried to move from 1.62, 70.52, -16.73 to 1.90, 75.85, -16.68 over a distance of 5.34 block(s). VL 433.
+14.01.21 21:15:09 [INFO] Kooper94 failed CreativeFly: tried to move unexpectedly. VL 258.
+14.01.21 21:15:09 [INFO] Kooper94 failed CreativeFly: tried to move from 30.18, 68.52, -6.86 to 30.18, 71.89, -6.86 over a distance of 3.37 block(s). VL 422.
+14.01.21 21:38:53 [INFO] ImSoRandom111 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.21 21:45:36 [INFO] ImSoRandom111 failed Text: acted like spamming (IP: PE-110-146-170-152.knmu.knt.bigpond.net.au/110.146.170.152). VL 1.
+14.01.21 22:23:16 [INFO] Boomyay failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.22 00:26:14 [INFO] xZizle123 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.22 00:26:18 [INFO] xZizle123 failed MorePackets: sent 35 more packet(s) than expected. VL 35.
+14.01.22 03:08:55 [INFO] xZizle123 failed Text: acted like spamming (IP: PE-121-221-36-118.lns3.wel.bigpond.net.au/121.221.36.118). VL 0.
+14.01.22 03:15:25 [INFO] SwoonAtt failed Text: acted like spamming (IP: 48.16-134-203.dynamic.dsl.pth.iprimus.net.au/203.134.16.148). VL 3.
+14.01.22 03:15:41 [INFO] SwoonAtt failed Text: acted like spamming (IP: 48.16-134-203.dynamic.dsl.pth.iprimus.net.au/203.134.16.148). VL 1.
+14.01.22 15:12:23 [INFO] ImSoRandom111 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.22 15:13:58 [INFO] meganlovesmusic failed CreativeFly: tried to move unexpectedly. VL 100.
+14.01.22 15:13:59 [INFO] azdaspaz818 failed CreativeFly: tried to move unexpectedly. VL 98.
+14.01.22 15:14:00 [INFO] azdaspaz818 failed CreativeFly: tried to move unexpectedly. VL 105.
+14.01.22 15:14:03 [INFO] meganlovesmusic failed CreativeFly: tried to move unexpectedly. VL 126.
+14.01.22 15:14:05 [INFO] azdaspaz818 failed CreativeFly: tried to move unexpectedly. VL 152.
+14.01.22 15:14:08 [INFO] meganlovesmusic failed CreativeFly: tried to move unexpectedly. VL 84.
+14.01.22 15:14:08 [INFO] meganlovesmusic failed CreativeFly: tried to move unexpectedly. VL 109.
+14.01.22 15:14:09 [INFO] azdaspaz818 failed CreativeFly: tried to move unexpectedly. VL 80.
+14.01.22 15:14:10 [INFO] azdaspaz818 failed CreativeFly: tried to move unexpectedly. VL 105.
+14.01.22 15:14:15 [INFO] azdaspaz818 failed CreativeFly: tried to move unexpectedly. VL 190.
+14.01.22 15:14:22 [INFO] meganlovesmusic failed CreativeFly: tried to move unexpectedly. VL 45.
+14.01.22 17:09:20 [INFO] jslsa failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.22 17:33:21 [INFO] xZizle123 failed CreativeFly: tried to move from 444.50, 115.82, 607.50 to 444.50, 125.37, 607.50 over a distance of 9.55 block(s). VL 855.
+14.01.22 17:33:43 [INFO] xZizle123 failed CreativeFly: tried to move from 482.51, 178.82, 599.99 to 482.72, 188.37, 599.90 over a distance of 9.55 block(s). VL 855.
+14.01.22 17:37:03 [INFO] xZizle123 failed CreativeFly: tried to move from -62.35, 80.82, 45.87 to -62.35, 90.37, 45.87 over a distance of 9.55 block(s). VL 855.
+14.01.22 17:37:09 [INFO] xZizle123 failed CreativeFly: tried to move from -63.51, 81.82, 41.74 to -63.51, 91.37, 41.59 over a distance of 9.55 block(s). VL 1931.
+14.01.22 17:38:19 [INFO] BlueVortexed failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.22 17:38:19 [INFO] JacquiRose failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.22 17:39:24 [INFO] BlueVortexed failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.22 17:39:24 [INFO] JacquiRose failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.22 17:44:47 [INFO] JacquiRose failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.22 20:05:28 [INFO] SwoonAtt failed CreativeFly: tried to move from 23.38, 83.82, 43.64 to 23.45, 93.37, 43.75 over a distance of 9.55 block(s). VL 855.
+14.01.22 20:05:34 [INFO] SwoonAtt failed CreativeFly: tried to move from 21.60, 83.82, 43.33 to 21.47, 93.37, 43.29 over a distance of 9.55 block(s). VL 1659.
+14.01.22 20:05:59 [INFO] zdav2002 failed CreativeFly: tried to move from 26.23, 83.52, 45.30 to 26.43, 92.77, 45.09 over a distance of 9.26 block(s). VL 825.
+14.01.22 20:06:00 [INFO] xZizle123 failed CreativeFly: tried to move from 26.44, 83.52, 46.50 to 26.44, 92.77, 46.50 over a distance of 9.25 block(s). VL 825.
+14.01.22 20:06:04 [INFO] zdav2002 failed CreativeFly: tried to move from 25.65, 83.52, 44.95 to 25.64, 92.77, 44.96 over a distance of 9.25 block(s). VL 897.
+14.01.22 20:06:06 [INFO] xZizle123 failed CreativeFly: tried to move from 32.13, 83.52, 49.02 to 32.22, 92.77, 49.10 over a distance of 9.25 block(s). VL 1950.
+14.01.22 20:06:54 [INFO] zdav2002 failed CreativeFly: tried to move from 31.58, 82.52, 47.60 to 31.86, 90.79, 47.64 over a distance of 8.28 block(s). VL 727.
+14.01.22 20:06:59 [INFO] zdav2002 failed CreativeFly: tried to move from 36.80, 82.52, 52.24 to 36.85, 90.79, 52.33 over a distance of 8.27 block(s). VL 1621.
+14.01.22 20:07:40 [INFO] zdav2002 failed CreativeFly: tried to move from 183.70, 87.52, -2.23 to 183.70, 92.85, -2.23 over a distance of 5.33 block(s). VL 433.
+14.01.22 20:11:17 [INFO] zdav2002 failed CreativeFly: tried to move from 202.39, 99.52, -123.51 to 202.39, 108.77, -123.51 over a distance of 9.25 block(s). VL 825.
+14.01.22 20:11:18 [INFO] SwoonAtt failed CreativeFly: tried to move from 201.70, 99.52, -123.90 to 201.70, 108.77, -123.90 over a distance of 9.25 block(s). VL 825.
+14.01.22 20:11:22 [INFO] zdav2002 failed CreativeFly: tried to move from 202.39, 99.52, -123.51 to 202.39, 108.77, -123.51 over a distance of 9.25 block(s). VL 1784.
+14.01.22 20:11:27 [INFO] zdav2002 failed CreativeFly: tried to move from 202.39, 99.52, -123.51 to 202.39, 108.77, -123.51 over a distance of 9.25 block(s). VL 1859.
+14.01.22 20:11:28 [INFO] winnieeeee failed CreativeFly: tried to move from 202.47, 98.52, -124.68 to 202.43, 107.77, -124.54 over a distance of 9.25 block(s). VL 825.
+14.01.22 20:11:29 [INFO] xZizle123 failed CreativeFly: tried to move from 202.65, 99.52, -123.25 to 202.65, 108.77, -123.25 over a distance of 9.25 block(s). VL 825.
+14.01.22 20:11:32 [INFO] zdav2002 failed CreativeFly: tried to move from 202.39, 99.52, -123.51 to 202.39, 108.77, -123.51 over a distance of 9.25 block(s). VL 2019.
+14.01.22 20:11:33 [INFO] winnieeeee failed CreativeFly: tried to move from 202.33, 98.52, -126.60 to 202.33, 107.77, -126.60 over a distance of 9.25 block(s). VL 1845.
+14.01.22 20:11:35 [INFO] SwoonAtt failed CreativeFly: tried to move from 0.00, 83.52, 0.00 to 0.00, 92.77, 0.00 over a distance of 9.25 block(s). VL 1872.
+14.01.22 20:11:37 [INFO] zdav2002 failed CreativeFly: tried to move from 202.39, 99.52, -123.51 to 202.39, 108.77, -123.51 over a distance of 9.25 block(s). VL 2039.
+14.01.22 20:11:38 [INFO] winnieeeee failed CreativeFly: tried to move from 202.31, 98.52, -124.98 to 202.31, 107.77, -124.93 over a distance of 9.25 block(s). VL 1792.
+14.01.22 20:11:38 [INFO] xZizle123 failed CreativeFly: tried to move from 202.65, 99.52, -123.25 to 202.65, 108.77, -123.25 over a distance of 9.25 block(s). VL 1784.
+14.01.22 20:11:40 [INFO] SwoonAtt failed CreativeFly: tried to move from 1.97, 83.52, 5.22 to 2.00, 92.77, 5.40 over a distance of 9.25 block(s). VL 1209.
+14.01.22 20:11:42 [INFO] zdav2002 failed CreativeFly: tried to move from 201.75, 98.52, -123.24 to 201.72, 107.77, -123.23 over a distance of 9.25 block(s). VL 1962.
+14.01.22 20:11:43 [INFO] winnieeeee failed CreativeFly: tried to move from 202.19, 98.52, -124.66 to 202.19, 107.77, -124.66 over a distance of 9.25 block(s). VL 1816.
+14.01.22 20:11:43 [INFO] xZizle123 failed CreativeFly: tried to move from 198.65, 98.52, -121.98 to 198.50, 107.77, -122.23 over a distance of 9.26 block(s). VL 1273.
+14.01.22 20:11:46 [INFO] SwoonAtt failed CreativeFly: tried to move from 3.31, 83.52, 12.99 to 3.42, 92.77, 13.25 over a distance of 9.26 block(s). VL 1543.
+14.01.22 20:11:47 [INFO] zdav2002 failed CreativeFly: tried to move from 201.75, 98.52, -123.24 to 201.75, 107.77, -123.24 over a distance of 9.25 block(s). VL 2031.
+14.01.22 20:11:48 [INFO] xZizle123 failed CreativeFly: tried to move from 198.42, 98.52, -129.39 to 198.42, 107.77, -129.39 over a distance of 9.25 block(s). VL 1935.
+14.01.22 20:11:48 [INFO] winnieeeee failed CreativeFly: tried to move from 197.72, 99.52, -125.26 to 197.69, 108.77, -125.37 over a distance of 9.25 block(s). VL 2033.
+14.01.22 20:11:51 [INFO] SwoonAtt failed CreativeFly: tried to move from 8.57, 83.52, 25.36 to 8.72, 92.77, 25.63 over a distance of 9.26 block(s). VL 1709.
+14.01.22 20:11:52 [INFO] zdav2002 failed CreativeFly: tried to move from 201.75, 98.52, -123.24 to 201.75, 107.77, -123.24 over a distance of 9.25 block(s). VL 2040.
+14.01.22 20:11:53 [INFO] xZizle123 failed CreativeFly: tried to move from 197.16, 99.52, -125.77 to 197.17, 108.77, -125.93 over a distance of 9.25 block(s). VL 2006.
+14.01.22 20:11:58 [INFO] SwoonAtt failed CreativeFly: tried to move from 16.47, 83.52, 40.06 to 16.58, 92.77, 40.32 over a distance of 9.26 block(s). VL 1004.
+14.01.22 20:11:58 [INFO] xZizle123 failed CreativeFly: tried to move from 196.39, 99.52, -124.11 to 196.48, 108.77, -124.24 over a distance of 9.25 block(s). VL 2057.
+14.01.22 20:12:01 [INFO] zdav2002 failed CreativeFly: tried to move from 201.75, 98.52, -123.24 to 201.75, 107.77, -123.24 over a distance of 9.25 block(s). VL 848.
+14.01.22 20:12:03 [INFO] xZizle123 failed CreativeFly: tried to move from 196.68, 98.52, -122.45 to 196.77, 107.77, -122.55 over a distance of 9.25 block(s). VL 1246.
+14.01.22 20:12:07 [INFO] zdav2002 failed CreativeFly: tried to move from 201.75, 98.52, -123.24 to 201.75, 107.77, -123.24 over a distance of 9.25 block(s). VL 857.
+14.01.22 20:18:45 [INFO] SwoonAtt failed Text: acted like spamming (IP: 48.16-134-203.dynamic.dsl.pth.iprimus.net.au/203.134.16.148). VL 0.
+14.01.22 20:54:45 [INFO] JacquiRose failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.22 21:27:00 [INFO] JacquiRose failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.22 21:28:41 [INFO] winnieeeee failed Direction: tried to interact with a block out of his line of sight. VL 14.
+14.01.23 16:26:31 [INFO] jslsa failed CreativeFly: tried to move from 569.58, 265.82, 536.64 to 569.58, 275.37, 536.64 over a distance of 9.55 block(s). VL 855.
+14.01.23 16:26:36 [INFO] jslsa failed CreativeFly: tried to move from 569.58, 265.82, 536.64 to 569.58, 275.37, 536.64 over a distance of 9.55 block(s). VL 1894.
+14.01.23 16:26:43 [INFO] jslsa failed CreativeFly: tried to move from 567.51, 88.82, 538.10 to 567.51, 98.37, 538.10 over a distance of 9.55 block(s). VL 921.
+14.01.23 16:26:48 [INFO] jslsa failed CreativeFly: tried to move from 568.60, 88.82, 537.38 to 568.60, 98.37, 537.38 over a distance of 9.55 block(s). VL 1675.
+14.01.23 16:26:59 [INFO] jslsa failed CreativeFly: tried to move from 570.30, 135.82, 536.42 to 570.30, 145.37, 536.42 over a distance of 9.55 block(s). VL 865.
+14.01.23 16:54:09 [INFO] JacquiRose failed Passable: moved into a block (12). VL 10.
+14.01.23 16:56:07 [INFO] JacquiRose failed Frequency: tried to break too many blocks within time frame. VL 8.
+14.01.23 17:03:50 [INFO] jslsa failed CreativeFly: tried to move from 484.15, 170.82, 698.86 to 484.15, 180.37, 698.99 over a distance of 9.55 block(s). VL 855.
+14.01.23 17:04:02 [INFO] jslsa failed CreativeFly: tried to move from 478.22, 122.82, 702.88 to 478.22, 132.37, 702.88 over a distance of 9.55 block(s). VL 871.
+14.01.23 17:04:07 [INFO] jslsa failed CreativeFly: tried to move from 476.52, 122.82, 704.14 to 476.42, 132.37, 704.23 over a distance of 9.55 block(s). VL 1630.
+14.01.23 18:04:30 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.23 18:04:30 [INFO] zdav2002 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.23 18:08:17 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.23 18:35:59 [INFO] azdaspaz818 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.23 18:47:12 [INFO] dutchy336 failed Speed: tried to throw projectiles too quickly. VL 223.
+14.01.23 18:47:12 [INFO] Boomyay failed Speed: tried to throw projectiles too quickly. VL 313.
+14.01.23 18:47:12 [INFO] 123Oblivious failed Speed: tried to throw projectiles too quickly. VL 224.
+14.01.23 18:59:00 [INFO] jslsa failed CreativeFly: tried to move from 90.97, 75.82, -10.83 to 90.81, 85.37, -10.61 over a distance of 9.55 block(s). VL 855.
+14.01.23 18:59:05 [INFO] jslsa failed CreativeFly: tried to move from 91.91, 75.82, -8.11 to 91.97, 85.37, -8.23 over a distance of 9.55 block(s). VL 1248.
+14.01.23 19:00:39 [INFO] Boomyay failed Speed: tried to throw projectiles too quickly. VL 322.
+14.01.23 19:01:15 [INFO] Boomyay failed Speed: tried to throw projectiles too quickly. VL 178.
+14.01.23 19:05:47 [INFO] _Arch_Rider failed Visible: interacts with a block out of sight. VL 6.
+14.01.23 19:05:53 [INFO] _Arch_Rider failed Visible: interacts with a block out of sight. VL 8.
+14.01.23 19:05:59 [INFO] _Arch_Rider failed Visible: interacts with a block out of sight. VL 9.
+14.01.23 19:06:02 [INFO] _Arch_Rider failed Visible: interacts with a block out of sight. VL 10.
+14.01.23 19:45:55 [INFO] 123Oblivious failed CreativeFly: tried to move from -83.97, 93.52, 84.32 to -84.05, 102.77, 84.20 over a distance of 9.25 block(s). VL 825.
+14.01.23 20:18:03 [INFO] _Arch_Rider failed Commands: issued too many commands. VL 1.
+14.01.23 21:53:38 [INFO] danielschroeder failed CreativeFly: tried to move unexpectedly. VL 186.
+14.01.23 21:54:05 [INFO] danielschroeder failed CreativeFly: tried to move unexpectedly. VL 138.
+14.01.23 21:54:10 [INFO] danielschroeder failed CreativeFly: tried to move unexpectedly. VL 317.
+14.01.23 21:54:10 [INFO] danielschroeder failed CreativeFly: tried to move from -148.24, 69.82, 328.36 to -150.46, 69.82, 326.70 over a distance of 2.77 block(s). VL 506.
+14.01.23 21:54:15 [INFO] danielschroeder failed CreativeFly: tried to move from -133.30, 73.20, 341.00 to -133.30, 73.20, 341.80 over a distance of 0.80 block(s). VL 841.
+14.01.23 21:54:20 [INFO] danielschroeder failed CreativeFly: tried to move from -134.96, 80.62, 365.10 to -135.41, 81.00, 366.42 over a distance of 1.44 block(s). VL 585.
+14.01.24 12:39:19 [INFO] Boomyay failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.24 12:42:39 [INFO] _Arch_Rider failed Text: acted like spamming (IP: 122-109-54-251.per802.wa.optusnet.com.au/122.109.54.251). VL 0.
+14.01.24 15:56:14 [INFO] meganlovesmusic failed Text: acted like spamming (IP: PE-121-218-32-189.lnse4.ken.bigpond.net.au/121.218.32.189). VL 1.
+14.01.24 19:24:28 [INFO] BlueVortexed failed Passable: moved into a block (12). VL 11.
+14.01.24 23:47:49 [INFO] xZizle123 failed Text: acted like spamming (IP: PE-121-221-36-118.lns3.wel.bigpond.net.au/121.221.36.118). VL 1.
+14.01.25 00:38:03 [INFO] WiiiFreak123 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.01.25 00:39:10 [INFO] Evil_Emo failed SurvivalFly: tried to move unexpectedly. VL 149.
+14.01.25 14:27:31 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.25 14:27:31 [INFO] Boomyay failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.25 15:35:02 [INFO] Geedubs01 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.25 18:18:02 [INFO] meganlovesmusic failed Text: acted like spamming (IP: PE-124-176-65-63.lns5.cht.bigpond.net.au/124.176.65.63). VL 1.
+14.01.25 20:04:36 [INFO] xZizle123 failed SurvivalFly: tried to move unexpectedly. VL 57.
+14.01.25 20:04:37 [INFO] xZizle123 failed SurvivalFly: tried to move unexpectedly. VL 114.
+14.01.25 20:04:48 [INFO] xZizle123 failed SurvivalFly: tried to move unexpectedly. VL 169.
+14.01.25 20:04:53 [INFO] xZizle123 failed SurvivalFly: tried to move unexpectedly. VL 301.
+14.01.25 20:05:07 [INFO] xZizle123 failed SurvivalFly: tried to move unexpectedly. VL 153.
+14.01.25 20:05:15 [INFO] xZizle123 failed SurvivalFly: tried to move unexpectedly. VL 1.
+14.01.25 20:05:27 [INFO] xZizle123 failed SurvivalFly: tried to move unexpectedly. VL 15.
+14.01.25 20:05:34 [INFO] xZizle123 failed SurvivalFly: tried to move unexpectedly. VL 60.
+14.01.25 23:10:20 [INFO] danielschroeder failed CreativeFly: tried to move unexpectedly. VL 111.
+14.01.26 02:23:38 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 92.112-134-203.dynamic.dsl.pth.iprimus.net.au/203.134.112.192). VL 3.
+14.01.26 15:26:19 [INFO] 123Oblivious failed Passable: moved into a block (1). VL 10.
+14.01.26 15:33:05 [INFO] BlueVortexed failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.27 18:13:16 [INFO] BlueVortexed failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.01.29 03:24:53 [INFO] XUHAVON failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.01.29 18:15:05 [INFO] DeathKnight489 failed Visible: interacts with a block out of sight. VL 5.
+14.01.29 19:35:44 [INFO] huxtech failed Passable: moved into a block (1). VL 10.
+14.01.29 19:35:49 [INFO] huxtech failed Passable: moved into a block (1). VL 20.
+14.01.29 21:44:00 [INFO] huxtech failed Relog: relogs too fast. VL 1.
+14.01.30 19:43:19 [INFO] BlueVortexed failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.01.30 19:43:54 [INFO] BlueVortexed failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.01.30 19:45:24 [INFO] BlueVortexed failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.01.30 19:45:44 [INFO] BlueVortexed failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.01.30 19:48:41 [INFO] BlueVortexed failed Relog: relogs too fast. VL 1.
+14.02.01 12:50:42 [INFO] Rynocraft failed Passable: moved into a block (5). VL 10.
+14.02.01 16:20:19 [INFO] Sooty4 failed Passable: moved into a block (3). VL 10.
+14.02.01 16:20:19 [INFO] Sooty4 failed Visible: interacts with a block out of sight. VL 6.
+14.02.01 16:20:31 [INFO] Sooty4 failed Visible: interacts with a block out of sight. VL 6.
+14.02.01 16:20:43 [INFO] Sooty4 failed Visible: interacts with a block out of sight. VL 7.
+14.02.01 16:20:54 [INFO] Sooty4 failed Visible: interacts with a block out of sight. VL 6.
+14.02.01 16:21:18 [INFO] Sooty4 failed Visible: interacts with a block out of sight. VL 6.
+14.02.01 16:21:52 [INFO] Sooty4 failed Visible: interacts with a block out of sight. VL 5.
+14.02.01 16:25:49 [INFO] Sooty4 failed Visible: interacts with a block out of sight. VL 5.
+14.02.01 16:32:18 [INFO] Sooty4 failed Passable: moved into a block (0). VL 11.
+14.02.01 16:36:47 [INFO] Sooty4 failed Frequency: tried to break too many blocks within time frame. VL 8.
+14.02.01 16:36:47 [INFO] Sooty4 failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.02.01 16:36:47 [INFO] Sooty4 failed Visible: interacts with a block out of sight. VL 5.
+14.02.01 16:36:59 [INFO] Sooty4 failed Frequency: tried to break too many blocks within time frame. VL 13.
+14.02.01 16:36:59 [INFO] Sooty4 failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.02.01 16:37:14 [INFO] Sooty4 failed Passable: moved into a block (2). VL 11.
+14.02.01 16:37:37 [INFO] Sooty4 failed Visible: interacts with a block out of sight. VL 7.
+14.02.01 17:54:30 [INFO] xZizle123 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.01 22:03:59 [INFO] 123Oblivious failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.02.06 17:11:34 [INFO] danielschroeder failed CreativeFly: tried to move unexpectedly. VL 102.
+14.02.06 17:11:42 [INFO] danielschroeder failed CreativeFly: tried to move unexpectedly. VL 229.
+14.02.06 17:11:47 [INFO] danielschroeder failed CreativeFly: tried to move unexpectedly. VL 362.
+14.02.06 17:13:06 [INFO] danielschroeder failed CreativeFly: tried to move unexpectedly. VL 27.
+14.02.07 23:24:11 [INFO] Boomyay failed Relog: relogs too fast. VL 1.
+14.02.12 18:40:18 [INFO] 123Oblivious failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.12 18:47:53 [INFO] 123Oblivious failed Speed: tried to throw projectiles too quickly. VL 317.
+14.02.12 19:32:33 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.12 20:34:42 [INFO] winnieeeee failed Passable: moved into a block (172). VL 10.
+14.02.12 20:53:50 [INFO] winnieeeee failed Speed: tried to throw projectiles too quickly. VL 253.
+14.02.12 20:53:55 [INFO] winnieeeee failed Speed: tried to throw projectiles too quickly. VL 920.
+14.02.12 20:53:56 [INFO] winnieeeee failed Speed: tried to throw projectiles too quickly. VL 1035.
+14.02.12 21:05:31 [INFO] winnieeeee failed Passable: moved into a block (172). VL 10.
+14.02.13 18:09:38 [INFO] 123Oblivious failed Text: acted like spamming (IP: 122-106-85-136.randw3.nsw.optusnet.com.au/122.106.85.136). VL 0.
+14.02.13 18:53:23 [INFO] winnieeeee failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.13 19:09:23 [INFO] 123Oblivious failed Text: acted like spamming (IP: 122-106-85-136.randw3.nsw.optusnet.com.au/122.106.85.136). VL 1.
+14.02.15 11:19:41 [INFO] Sooty4 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.15 11:25:10 [INFO] BlueVortexed failed Relog: relogs too fast. VL 1.
+14.02.15 11:25:22 [INFO] BlueVortexed failed Relog: relogs too fast. VL 2.
+14.02.15 11:26:20 [INFO] BlueVortexed failed Relog: relogs too fast. VL 5.
+14.02.15 11:28:03 [INFO] BlueVortexed failed Relog: relogs too fast. VL 7.
+14.02.15 11:28:40 [INFO] BlueVortexed failed Relog: relogs too fast. VL 8.
+14.02.15 11:29:09 [INFO] BlueVortexed failed Relog: relogs too fast. VL 9.
+14.02.16 15:23:56 [INFO] 123Oblivious failed Text: acted like spamming (IP: 122-106-85-136.randw3.nsw.optusnet.com.au/122.106.85.136). VL 0.
+14.02.16 21:49:47 [INFO] dutchy336 failed Improbable: meets the improbable more than expected. VL 12.
+14.02.16 21:49:55 [INFO] dutchy336 failed Improbable: meets the improbable more than expected. VL 16.
+14.02.16 21:50:05 [INFO] dutchy336 failed Improbable: meets the improbable more than expected. VL 15.
+14.02.16 22:45:59 [INFO] Yuzko failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.02.19 18:51:54 [INFO] BlueVortexed failed Passable: moved into a block (1). VL 10.
+14.02.19 21:05:55 [INFO] winnieeeee failed Passable: moved into a block (2). VL 10.
+14.02.22 16:24:44 [INFO] DynaDavidson failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.22 17:16:39 [INFO] 123Oblivious failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.02.22 21:55:49 [INFO] danielschroeder failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.03.01 19:55:28 [INFO] _Trezo_ failed Visible: interacts with a block out of sight. VL 6.
+14.03.01 22:48:17 [INFO] 123Oblivious failed CreativeFly: tried to move unexpectedly. VL 5.
+14.03.01 22:52:02 [INFO] Geedubs01 failed CreativeFly: tried to move unexpectedly. VL 165.
+14.03.01 22:52:02 [INFO] Fliine failed CreativeFly: tried to move unexpectedly. VL 163.
+14.03.01 22:52:09 [INFO] Fliine failed CreativeFly: tried to move unexpectedly. VL 215.
+14.03.01 22:52:17 [INFO] Fliine failed CreativeFly: tried to move unexpectedly. VL 201.
+14.03.01 22:52:17 [INFO] Geedubs01 failed CreativeFly: tried to move unexpectedly. VL 157.
+14.03.01 22:54:37 [INFO] 123Oblivious failed CreativeFly: tried to move unexpectedly. VL 386.
+14.03.01 22:54:37 [INFO] Geedubs01 failed CreativeFly: tried to move unexpectedly. VL 197.
+14.03.01 22:55:06 [INFO] Fliine failed CreativeFly: tried to move unexpectedly. VL 247.
+14.03.01 22:55:08 [INFO] Fliine failed CreativeFly: tried to move from -70.36, 86.35, -1151.39 to -72.93, 88.71, -1151.21 over a distance of 3.49 block(s). VL 553.
+14.03.01 22:55:22 [INFO] Fliine failed CreativeFly: tried to move from -59.72, 92.59, -1169.67 to -60.53, 95.89, -1165.24 over a distance of 5.58 block(s). VL 657.
+14.03.01 22:56:38 [INFO] Fliine failed Visible: interacts with a block out of sight. VL 6.
+14.03.02 13:38:52 [INFO] DynaDavidson failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.03.02 13:38:54 [INFO] DynaDavidson failed MorePackets: sent 20 more packet(s) than expected. VL 20.
+14.03.02 16:04:52 [INFO] DynaDavidson failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.03.02 16:04:53 [INFO] microstevey failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.03.09 02:38:28 [INFO] SwoonAtt failed Text: acted like spamming (IP: 8-7-148-142.dyn.iinet.net.au/58.7.148.142). VL 2.
+14.03.09 02:46:08 [INFO] SwoonAtt failed Text: acted like spamming (IP: 8-7-148-142.dyn.iinet.net.au/58.7.148.142). VL 2.
+14.03.09 02:53:55 [INFO] SwoonAtt failed Text: acted like spamming (IP: 8-7-148-142.dyn.iinet.net.au/58.7.148.142). VL 0.
+14.03.09 03:03:20 [INFO] kytron failed Text: acted like spamming (IP: PE-120-145-88-158.lnse2.wel.bigpond.net.au/120.145.88.158). VL 1.
+14.03.12 21:43:21 [INFO] dutchy336 failed Passable: moved into a block (98). VL 10.
+14.03.18 17:19:53 [INFO] 123Oblivious failed Text: acted like spamming (IP: 122-106-85-136.randw3.nsw.optusnet.com.au/122.106.85.136). VL 0.
+14.03.19 19:51:59 [INFO] __R3 failed Text: acted like spamming (IP: PE-124-180-227-170.lns9.lon.bigpond.net.au/124.180.227.170). VL 1.
+14.03.19 21:32:03 [INFO] Geedubs01 failed Visible: interacts with a block out of sight. VL 5.
+14.03.19 21:35:18 [INFO] Geedubs01 failed Visible: interacts with a block out of sight. VL 6.
+14.03.21 19:12:07 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.03.22 16:52:11 [INFO] xBlazingxfirex1 failed Text: acted like spamming (IP: 22-148-225-104.static.dsl.dodo.com.au/122.148.225.104). VL 1.
+14.03.22 20:35:00 [INFO] huxtech failed Text: acted like spamming (IP: PE-60-230-240-247.lnse1.wel.bigpond.net.au/60.230.240.247). VL 1.
+14.03.22 21:07:42 [INFO] reggie449 failed Speed: tried to throw projectiles too quickly. VL 259.
+14.03.22 21:08:06 [INFO] reggie449 failed Speed: tried to throw projectiles too quickly. VL 154.
+14.03.22 21:08:13 [INFO] reggie449 failed Speed: tried to throw projectiles too quickly. VL 175.
+14.03.22 21:08:18 [INFO] reggie449 failed Speed: tried to throw projectiles too quickly. VL 232.
+14.03.22 21:08:23 [INFO] reggie449 failed Speed: tried to throw projectiles too quickly. VL 226.
+14.03.22 21:08:28 [INFO] reggie449 failed Speed: tried to throw projectiles too quickly. VL 314.
+14.03.22 21:08:35 [INFO] reggie449 failed Speed: tried to throw projectiles too quickly. VL 317.
+14.03.22 21:08:55 [INFO] reggie449 failed Speed: tried to throw projectiles too quickly. VL 309.
+14.03.22 22:23:37 [INFO] xBlazingxfirex1 failed Text: acted like spamming (IP: 22-148-225-104.static.dsl.dodo.com.au/122.148.225.104). VL 0.
+14.03.22 22:26:23 [INFO] WiiiFreak123 failed BedLeave: sends bed leave packets (was not in bed). VL 1.
+14.03.22 23:59:27 [INFO] Xelphius failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.03.23 02:14:31 [INFO] reggie449 failed CreativeFly: tried to move unexpectedly. VL 69.
+14.03.23 02:14:32 [INFO] reggie449 failed CreativeFly: tried to move unexpectedly. VL 128.
+14.03.23 02:14:37 [INFO] reggie449 failed CreativeFly: tried to move unexpectedly. VL 213.
+14.03.23 02:14:47 [INFO] reggie449 failed CreativeFly: tried to move unexpectedly. VL 43.
+14.03.23 02:14:48 [INFO] reggie449 failed CreativeFly: tried to move unexpectedly. VL 114.
+14.03.23 02:15:04 [INFO] reggie449 failed CreativeFly: tried to move unexpectedly. VL 6.
+14.03.23 02:15:13 [INFO] reggie449 failed CreativeFly: tried to move unexpectedly. VL 9.
+14.03.23 20:34:52 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-47-251.per802.wa.optusnet.com.au/122.109.47.251). VL 0.
+14.03.23 20:34:59 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 0.
+14.03.24 19:10:02 [INFO] Afridge1O1 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.03.26 19:05:53 [INFO] xBlazingxfirex1 failed Passable: moved into a block (2). VL 10.
+14.03.26 19:06:07 [INFO] xBlazingxfirex1 failed Passable: moved into a block (2). VL 10.
+14.03.27 18:12:08 [INFO] shavahn2003 failed Relog: relogs too fast. VL 1.
+14.03.27 23:36:54 [INFO] Xelphius failed Frequency: tried to break too many blocks within time frame. VL 9.
+14.03.27 23:36:56 [INFO] Xelphius failed Visible: interacts with a block out of sight. VL 5.
+14.03.27 23:37:00 [INFO] Xelphius failed Visible: interacts with a block out of sight. VL 12.
+14.03.29 16:48:31 [INFO] xBlazingxfirex1 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.03.29 16:51:13 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 25.
+14.03.29 16:53:48 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 12.
+14.03.29 17:06:39 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 25.
+14.03.29 17:11:46 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 9.
+14.03.29 17:11:54 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 14.
+14.03.29 17:25:51 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 2.
+14.03.29 17:37:36 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 4.
+14.03.29 17:38:20 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 23.
+14.03.29 17:38:21 [INFO] xBlazingxfirex1 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 51.
+14.03.29 17:38:28 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 24.
+14.03.29 17:38:44 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 14.
+14.04.01 22:13:29 [INFO] ep1cn00bt00b failed Relog: relogs too fast. VL 1.
+14.04.02 17:53:51 [INFO] AnomalousDyna failed Relog: relogs too fast. VL 1.
+14.04.03 15:01:07 [INFO] ep1cn00bt00b failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.04 15:14:55 [INFO] ep1cn00bt00b failed Passable: moved into a block (12). VL 10.
+14.04.04 15:15:02 [INFO] ep1cn00bt00b failed Passable: moved into a block (12). VL 11.
+14.04.04 15:17:12 [INFO] Xelphius failed Passable: moved into a block (24). VL 10.
+14.04.04 15:17:13 [INFO] ep1cn00bt00b failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.04 15:43:43 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 2.
+14.04.04 15:43:48 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 3.
+14.04.04 15:45:06 [INFO] Xelphius failed SurvivalFly: tried to move unexpectedly. VL 4.
+14.04.04 15:45:10 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 3.
+14.04.04 15:45:12 [INFO] Xelphius failed Improbable: meets the improbable more than expected. VL 12.
+14.04.04 15:45:14 [INFO] Xelphius failed SurvivalFly: tried to move unexpectedly. VL 15.
+14.04.04 15:45:15 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 4.
+14.04.04 15:45:21 [INFO] Xelphius failed SurvivalFly: tried to move unexpectedly. VL 4.
+14.04.04 15:46:15 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 3.
+14.04.04 15:46:54 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 3.
+14.04.04 15:46:58 [INFO] Xelphius failed Direction: tried to hit an entity out of line of sight. VL 6.
+14.04.04 15:47:00 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 5.
+14.04.04 15:48:22 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 7.
+14.04.04 15:48:29 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 4.
+14.04.04 15:49:09 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 4.
+14.04.04 15:50:23 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 5.
+14.04.04 15:50:32 [INFO] Xelphius failed SurvivalFly: tried to move unexpectedly. VL 3.
+14.04.04 15:50:39 [INFO] Xelphius failed SurvivalFly: tried to move unexpectedly. VL 8.
+14.04.04 15:51:59 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 3.
+14.04.04 15:55:47 [INFO] Xelphius failed Speed: tried to attack with too high a frequency. VL 5.
+14.04.04 15:55:48 [INFO] Xelphius failed Improbable: meets the improbable more than expected. VL 13.
+14.04.04 15:58:18 [INFO] ep1cn00bt00b failed Direction: tried to hit an entity out of line of sight. VL 12.
+14.04.04 15:58:23 [INFO] ep1cn00bt00b failed Direction: tried to hit an entity out of line of sight. VL 14.
+14.04.04 16:07:27 [INFO] Xelphius failed SurvivalFly: tried to move unexpectedly. VL 2.
+14.04.04 16:07:51 [INFO] Xelphius failed SurvivalFly: tried to move unexpectedly. VL 5.
+14.04.05 15:09:53 [INFO] WiiiFreak123 failed Commands: issued too many commands. VL 1.
+14.04.05 15:58:37 [INFO] WiiiFreak123 failed Speed: tried to throw projectiles too quickly. VL 314.
+14.04.05 19:32:31 [INFO] danielschroeder failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.06 12:49:30 [INFO] kytron failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.04.06 19:58:31 [INFO] DanShrdr failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.04.06 19:58:32 [INFO] DanShrdr failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.06 19:58:32 [INFO] ep1cn00bt00b failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.06 20:53:09 [INFO] reggie449 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.06 20:55:21 [INFO] DanShrdr failed CreativeFly: tried to move from 223.40, 101.97, -1311.94 to 223.18, 104.64, -1303.76 over a distance of 8.60 block(s). VL 925.
+14.04.06 21:01:36 [INFO] fkBear failed Text: acted like spamming (IP: PE-58-167-132-12.lnse1.cha.bigpond.net.au/58.167.132.12). VL 0.
+14.04.06 21:02:52 [INFO] ep1cn00bt00b failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.04.06 21:04:04 [INFO] ep1cn00bt00b failed SurvivalFly: tried to move unexpectedly. VL 14.
+14.04.06 21:04:29 [INFO] ep1cn00bt00b failed SurvivalFly: tried to move unexpectedly. VL 7.
+14.04.06 21:04:56 [INFO] ep1cn00bt00b failed SurvivalFly: tried to move unexpectedly. VL 3.
+14.04.06 21:05:18 [INFO] ep1cn00bt00b failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 66.
+14.04.06 21:06:12 [INFO] ep1cn00bt00b failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 116.
+14.04.06 21:06:32 [INFO] fkBear failed Direction: tried to hit an entity out of line of sight. VL 11.
+14.04.06 21:06:49 [INFO] ep1cn00bt00b failed SurvivalFly: tried to move unexpectedly. VL 5.
+14.04.06 21:07:09 [INFO] fkBear failed Direction: tried to hit an entity out of line of sight. VL 5.
+14.04.07 11:40:06 [INFO] ep1cn00bt00b failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 165.
+14.04.07 11:40:37 [INFO] TheDuckey failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.04.07 14:01:18 [INFO] TheDuckey failed Speed: tried to attack with too high a frequency. VL 2.
+14.04.07 15:23:43 [INFO] DanShrdr failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.07 16:57:51 [INFO] TheDuckey failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 51.
+14.04.07 18:42:27 [INFO] SereneMango failed Relog: relogs too fast. VL 1.
+14.04.07 19:17:32 [INFO] kytron failed Speed: tried to throw projectiles too quickly. VL 223.
+14.04.07 19:29:12 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.04.07 19:29:18 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 115.
+14.04.07 19:35:39 [INFO] SereneMango failed Speed: tried to throw projectiles too quickly. VL 308.
+14.04.07 22:35:46 [INFO] SereneMango failed Commands: issued too many commands. VL 1.
+14.04.08 12:11:38 [INFO] ep1cn00bt00b failed SurvivalFly: tried to move unexpectedly. VL 165.
+14.04.08 12:12:48 [INFO] ep1cn00bt00b failed Passable: moved into a block (1). VL 10.
+14.04.08 12:12:53 [INFO] ep1cn00bt00b failed Passable: moved into a block (1). VL 47.
+14.04.08 12:12:53 [INFO] ep1cn00bt00b failed Passable: moved into a block (1). VL 50.
+14.04.08 12:13:59 [INFO] TheDuckey failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 101.
+14.04.08 15:19:15 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 0.
+14.04.08 15:19:21 [INFO] TiniDaDominator failed Text: acted like spamming (IP: ss1121022.lnk.telstra.net/120.150.109.193). VL 3.
+14.04.08 15:54:29 [INFO] 123Oblivious failed Text: acted like spamming (IP: 58-109-75-149.randw4.nsw.optusnet.com.au/58.109.75.149). VL 1.
+14.04.08 16:03:05 [INFO] 123Oblivious failed Relog: relogs too fast. VL 1.
+14.04.08 16:11:33 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 1.
+14.04.08 18:32:32 [INFO] ep1cn00bt00b failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.08 18:33:27 [INFO] miniwolf35 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.04.08 18:34:30 [INFO] SereneMango failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.08 20:23:15 [INFO] Yuzko failed Text: acted like spamming (IP: pp121-44-166-227.lns20.syd7.internode.on.net/121.44.166.227). VL 1.
+14.04.08 22:32:25 [INFO] kytron failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.04.08 22:32:30 [INFO] kytron failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.04.08 22:32:36 [INFO] kytron failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.04.09 14:58:41 [INFO] TiniDaDominator failed Relog: relogs too fast. VL 1.
+14.04.09 14:58:44 [INFO] miniwolf35 failed Relog: relogs too fast. VL 1.
+14.04.09 15:37:33 [INFO] miniwolf35 failed Commands: issued too many commands. VL 1.
+14.04.09 18:25:07 [INFO] Smithey failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.09 18:32:22 [INFO] Smithey failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.09 20:22:40 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.04.10 18:38:22 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.10 21:26:12 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 1.
+14.04.10 21:33:40 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 313.
+14.04.10 21:37:24 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.04.10 21:40:50 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.10 21:43:11 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 3.
+14.04.10 21:47:50 [INFO] xBlazingxfirex1 failed Passable: moved into a block (1). VL 10.
+14.04.10 21:55:50 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 7.
+14.04.10 21:56:48 [INFO] xBlazingxfirex1 failed Text: acted like spamming (IP: 22-148-225-104.static.dsl.dodo.com.au/122.148.225.104). VL 1.
+14.04.10 22:33:41 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.11 18:38:04 [INFO] deadsun__star failed Passable: moved into a block (20). VL 10.
+14.04.11 18:44:35 [INFO] deadsun__star failed Passable: moved into a block (3). VL 11.
+14.04.11 18:44:51 [INFO] deadsun__star failed Passable: moved into a block (3). VL 10.
+14.04.11 18:45:03 [INFO] deadsun__star failed Passable: moved into a block (3). VL 11.
+14.04.11 18:45:05 [INFO] deadsun__star failed Visible: interacts with a block out of sight. VL 6.
+14.04.11 18:45:09 [INFO] deadsun__star failed Passable: moved into a block (3). VL 10.
+14.04.11 18:45:10 [INFO] deadsun__star failed Visible: interacts with a block out of sight. VL 7.
+14.04.11 18:45:14 [INFO] deadsun__star failed Visible: interacts with a block out of sight. VL 8.
+14.04.11 18:45:14 [INFO] deadsun__star failed Passable: moved into a block (3). VL 11.
+14.04.11 22:16:03 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.11 22:18:56 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 3.
+14.04.11 22:18:56 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 22.
+14.04.11 22:18:56 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 59.
+14.04.11 23:43:59 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 15.
+14.04.11 23:44:29 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 4.
+14.04.11 23:44:39 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 4.
+14.04.11 23:45:08 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 2.
+14.04.11 23:48:29 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 5.
+14.04.12 01:54:56 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 1.
+14.04.12 10:09:01 [INFO] miniwolf35 failed Passable: moved into a block (80). VL 10.
+14.04.12 10:43:44 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.12 11:35:35 [INFO] WiiiFreak123 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.04.12 11:36:59 [INFO] kytron failed Speed: tried to throw projectiles too quickly. VL 295.
+14.04.12 11:37:41 [INFO] kytron failed Speed: tried to throw projectiles too quickly. VL 176.
+14.04.12 16:51:35 [INFO] jslsa failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.04.12 16:59:19 [INFO] jslsa failed Visible: interacts with a block out of sight. VL 5.
+14.04.12 17:00:36 [INFO] jslsa failed Visible: interacts with a block out of sight. VL 5.
+14.04.12 17:01:46 [INFO] jslsa failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.14 00:37:47 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.14 10:39:05 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.04.14 10:39:13 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 18.
+14.04.14 16:25:53 [INFO] jslsa failed Visible: interacts with a block out of sight. VL 6.
+14.04.14 17:25:37 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 4.
+14.04.14 17:25:59 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 13.
+14.04.14 17:26:38 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 4.
+14.04.14 17:53:57 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.14 22:46:24 [INFO] reggie449 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.15 00:08:56 [INFO] dutchy336 failed Speed: tried to throw projectiles too quickly. VL 314.
+14.04.15 00:09:26 [INFO] dutchy336 failed Speed: tried to throw projectiles too quickly. VL 166.
+14.04.15 00:25:03 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 177.
+14.04.15 00:25:23 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 166.
+14.04.15 00:25:39 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 208.
+14.04.15 00:25:48 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 161.
+14.04.15 00:25:53 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 151.
+14.04.15 00:26:01 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 177.
+14.04.15 00:26:45 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 153.
+14.04.15 00:26:50 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 151.
+14.04.15 00:26:55 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 164.
+14.04.15 00:27:20 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 234.
+14.04.15 00:27:30 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 161.
+14.04.15 00:27:36 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 190.
+14.04.15 00:27:55 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 163.
+14.04.15 00:28:02 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 186.
+14.04.15 00:28:10 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 219.
+14.04.15 00:28:19 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 162.
+14.04.15 00:28:26 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 192.
+14.04.15 00:29:58 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 281.
+14.04.15 00:30:17 [INFO] ep1cn00bt00b failed Speed: tried to throw projectiles too quickly. VL 314.
+14.04.15 00:30:24 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 573.
+14.04.15 00:30:45 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 560.
+14.04.15 00:30:50 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 389.
+14.04.15 00:30:56 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 204.
+14.04.15 00:31:05 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 155.
+14.04.15 00:31:34 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 515.
+14.04.15 00:31:34 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1144.
+14.04.15 00:31:43 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1677.
+14.04.15 00:31:44 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 721.
+14.04.15 00:32:01 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 170.
+14.04.15 00:32:07 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 159.
+14.04.15 00:32:14 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 157.
+14.04.15 00:32:21 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 186.
+14.04.15 00:32:26 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 387.
+14.04.15 00:32:31 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 659.
+14.04.15 00:32:31 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1003.
+14.04.15 00:32:41 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 995.
+14.04.15 00:32:41 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1031.
+14.04.15 00:32:49 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 346.
+14.04.15 00:34:40 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 181.
+14.04.15 00:34:45 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 196.
+14.04.15 00:35:26 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 172.
+14.04.15 00:35:39 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 158.
+14.04.15 00:35:53 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 158.
+14.04.15 00:35:58 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 166.
+14.04.15 00:36:14 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 173.
+14.04.15 00:36:22 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 176.
+14.04.15 00:36:41 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 210.
+14.04.15 00:36:47 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 316.
+14.04.15 00:36:52 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 292.
+14.04.15 00:36:57 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 236.
+14.04.15 00:37:55 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 166.
+14.04.15 00:38:00 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 277.
+14.04.15 00:38:05 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 224.
+14.04.15 00:39:20 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 174.
+14.04.15 00:39:25 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 250.
+14.04.15 00:39:41 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 152.
+14.04.15 00:39:46 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 152.
+14.04.15 00:39:51 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 183.
+14.04.15 00:39:56 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 191.
+14.04.15 00:40:01 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 564.
+14.04.15 00:40:06 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 742.
+14.04.15 00:40:07 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1002.
+14.04.15 00:40:12 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1328.
+14.04.15 00:40:17 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 2430.
+14.04.15 00:40:22 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 2851.
+14.04.15 00:41:21 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1211.
+14.04.15 00:41:38 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 676.
+14.04.15 00:41:43 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 168.
+14.04.15 00:41:48 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 189.
+14.04.15 00:41:53 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 185.
+14.04.15 00:41:59 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 215.
+14.04.15 00:42:04 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 205.
+14.04.15 00:42:11 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 211.
+14.04.15 00:42:16 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 271.
+14.04.15 00:42:21 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 177.
+14.04.15 00:42:26 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 173.
+14.04.15 00:42:31 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 392.
+14.04.15 00:42:38 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 442.
+14.04.15 00:42:42 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1053.
+14.04.15 00:42:47 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 2360.
+14.04.15 00:42:52 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 3240.
+14.04.15 00:43:00 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 2795.
+14.04.15 00:43:05 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 2895.
+14.04.15 00:44:14 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1173.
+14.04.15 00:44:16 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 174.
+14.04.15 00:44:21 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 164.
+14.04.15 00:44:26 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 176.
+14.04.15 00:44:31 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 168.
+14.04.15 00:44:36 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 229.
+14.04.15 00:44:41 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 497.
+14.04.15 00:44:46 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 849.
+14.04.15 00:44:48 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1020.
+14.04.15 00:45:19 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 506.
+14.04.15 00:45:50 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 169.
+14.04.15 00:45:55 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 157.
+14.04.15 00:46:01 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 151.
+14.04.15 00:46:06 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 162.
+14.04.15 00:46:23 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 176.
+14.04.15 00:46:28 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 291.
+14.04.15 00:46:33 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 661.
+14.04.15 00:46:34 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1052.
+14.04.15 00:46:34 [INFO] Xelphius failed Improbable: meets the improbable more than expected. VL 12.
+14.04.15 00:46:38 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 566.
+14.04.15 00:46:42 [INFO] Xelphius failed Improbable: meets the improbable more than expected. VL 64.
+14.04.15 00:46:43 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 171.
+14.04.15 00:46:48 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 178.
+14.04.15 00:46:51 [INFO] Xelphius failed Improbable: meets the improbable more than expected. VL 89.
+14.04.15 00:47:15 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 154.
+14.04.15 00:47:21 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 152.
+14.04.15 00:47:37 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 172.
+14.04.15 00:47:42 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 228.
+14.04.15 00:47:51 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 167.
+14.04.15 00:47:56 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 275.
+14.04.15 00:48:01 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 484.
+14.04.15 00:48:05 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1023.
+14.04.15 00:48:06 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 963.
+14.04.15 00:48:10 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 1071.
+14.04.15 00:48:15 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 2009.
+14.04.15 00:48:20 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 2405.
+14.04.15 00:48:25 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 2832.
+14.04.15 00:48:30 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 3328.
+14.04.15 00:48:35 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 2859.
+14.04.15 00:48:40 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 3824.
+14.04.15 00:48:45 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 3675.
+14.04.15 00:48:50 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 3674.
+14.04.15 00:48:55 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 3691.
+14.04.15 00:49:00 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 4552.
+14.04.15 00:49:05 [INFO] Xelphius failed Speed: tried to throw projectiles too quickly. VL 5054.
+14.04.15 16:36:09 [INFO] xBlazingxfirex1 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.04.15 16:37:03 [INFO] xBlazingxfirex1 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 100.
+14.04.15 16:37:43 [INFO] SereneMango failed Speed: tried to throw projectiles too quickly. VL 195.
+14.04.15 16:37:43 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 96.
+14.04.15 16:37:43 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 287.
+14.04.15 16:38:00 [INFO] _Arch_Rider failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.04.15 16:46:07 [INFO] AnomalousDyna failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.15 21:26:04 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 54.147-134-203.dynamic.dsl.pth.iprimus.net.au/203.134.147.154). VL 2.
+14.04.15 22:30:38 [INFO] WiiiFreak123 failed Visible: interacts with a block out of sight. VL 6.
+14.04.16 13:42:22 [INFO] SereneMango failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.16 13:52:15 [INFO] SereneMango failed Commands: issued too many commands. VL 1.
+14.04.17 19:18:05 [INFO] Yuzko failed Text: acted like spamming (IP: pp121-44-68-87.lns20.syd6.internode.on.net/121.44.68.87). VL 0.
+14.04.17 19:22:44 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-45-245.per802.wa.optusnet.com.au/122.109.45.245). VL 1.
+14.04.17 19:23:14 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-45-245.per802.wa.optusnet.com.au/122.109.45.245). VL 1.
+14.04.17 20:26:28 [INFO] jslsa failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.17 20:45:49 [INFO] SereneMango failed SurvivalFly: tried to move unexpectedly. VL 13.
+14.04.17 20:46:10 [INFO] SereneMango failed SurvivalFly: tried to move unexpectedly. VL 4.
+14.04.17 20:46:17 [INFO] WiiiFreak123 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.04.17 20:46:46 [INFO] WiiiFreak123 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 100.
+14.04.17 20:46:52 [INFO] SereneMango failed SurvivalFly: tried to move unexpectedly. VL 60.
+14.04.17 20:46:57 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 99.
+14.04.17 20:47:09 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 148.
+14.04.17 20:47:30 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 198.
+14.04.17 20:48:38 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 297.
+14.04.17 20:50:13 [INFO] WiiiFreak123 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 150.
+14.04.17 20:50:24 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 346.
+14.04.17 20:51:05 [INFO] WiiiFreak123 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 199.
+14.04.17 20:51:08 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 348.
+14.04.17 20:51:13 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 398.
+14.04.17 21:24:51 [INFO] SereneMango failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.18 13:38:33 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.18 13:38:33 [INFO] 123Oblivious failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.18 13:57:55 [INFO] SereneMango failed Angle: tried to hit multiple entities at the same time. VL 258.
+14.04.18 13:57:55 [INFO] miniwolf35 failed Direction: tried to hit an entity out of line of sight. VL 18.
+14.04.18 13:57:55 [INFO] miniwolf35 failed Direction: tried to hit an entity out of line of sight. VL 22.
+14.04.18 13:58:07 [INFO] miniwolf35 failed Direction: tried to hit an entity out of line of sight. VL 6.
+14.04.18 13:58:08 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 448.
+14.04.18 13:58:15 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 497.
+14.04.18 13:58:15 [INFO] SereneMango failed Angle: tried to hit multiple entities at the same time. VL 273.
+14.04.18 13:58:15 [INFO] miniwolf35 failed Angle: tried to hit multiple entities at the same time. VL 272.
+14.04.18 13:58:15 [INFO] miniwolf35 failed Direction: tried to hit an entity out of line of sight. VL 7.
+14.04.18 16:06:03 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 312.
+14.04.18 16:06:13 [INFO] xZizle123 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.18 20:23:46 [INFO] SereneMango failed Improbable: meets the improbable more than expected. VL 15.
+14.04.18 20:39:52 [INFO] SereneMango failed SurvivalFly: tried to move unexpectedly. VL 23.
+14.04.18 20:40:09 [INFO] SereneMango failed SurvivalFly: tried to move unexpectedly. VL 15.
+14.04.18 21:32:39 [INFO] SereneMango failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.04.18 22:27:52 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-45-245.per802.wa.optusnet.com.au/122.109.45.245). VL 0.
+14.04.18 23:46:28 [INFO] SereneMango failed Visible: interacts with a block out of sight. VL 5.
+14.04.18 23:46:30 [INFO] SereneMango failed Visible: interacts with a block out of sight. VL 10.
+14.04.18 23:46:33 [INFO] SereneMango failed Visible: interacts with a block out of sight. VL 12.
+14.04.18 23:46:35 [INFO] SereneMango failed Visible: interacts with a block out of sight. VL 19.
+14.04.19 13:55:02 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 181.
+14.04.19 13:59:45 [INFO] _Arch_Rider failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.04.19 14:00:46 [INFO] WiiiFreak123 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.19 14:19:53 [INFO] WiiiFreak123 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.04.19 16:34:54 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 322.
+14.04.19 16:35:52 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 181.
+14.04.19 18:38:57 [INFO] miniwolf35 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.04.19 18:39:25 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.04.19 18:39:58 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 100.
+14.04.19 18:43:29 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 150.
+14.04.19 20:16:59 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-45-245.per802.wa.optusnet.com.au/122.109.45.245). VL 0.
+14.04.19 20:17:41 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 2.152-142-203.dynamic.dsl.pth.iprimus.net.au/203.142.152.62). VL 0.
+14.04.19 20:17:51 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 2.152-142-203.dynamic.dsl.pth.iprimus.net.au/203.142.152.62). VL 1.
+14.04.19 20:21:17 [INFO] Yuzko failed Text: acted like spamming (IP: pp121-44-21-94.lns20.syd6.internode.on.net/121.44.21.94). VL 1.
+14.04.19 20:21:40 [INFO] SereneMango failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.19 20:21:44 [INFO] SereneMango failed MorePackets: sent 12 more packet(s) than expected. VL 12.
+14.04.19 20:23:11 [INFO] Mr_Jaskirat failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.20 12:35:07 [INFO] shavahn2003 failed Text: acted like spamming (IP: 24-171-123-219.dyn.iinet.net.au/124.171.123.219). VL 1.
+14.04.20 20:46:15 [INFO] Geedubs01 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.20 20:46:56 [INFO] Mr_Jaskirat failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.20 20:46:56 [INFO] Geedubs01 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.20 20:47:59 [INFO] Geedubs01 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.21 00:09:02 [INFO] miniwolf35 failed SurvivalFly: tried to move unexpectedly. VL 3.
+14.04.21 00:16:43 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.21 23:10:08 [INFO] SereneMango failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.04.21 23:40:05 [INFO] huxtech failed Text: acted like spamming (IP: 06-69-29-192.dyn.iinet.net.au/106.69.29.192). VL 0.
+14.04.22 12:21:07 [INFO] SereneMango failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.22 13:55:52 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 44.118-240-116.dynamic.dsl.pth.iprimus.net.au/116.240.118.244). VL 2.
+14.04.22 13:55:59 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 44.118-240-116.dynamic.dsl.pth.iprimus.net.au/116.240.118.244). VL 1.
+14.04.22 13:56:15 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 44.118-240-116.dynamic.dsl.pth.iprimus.net.au/116.240.118.244). VL 3.
+14.04.22 13:56:22 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 44.118-240-116.dynamic.dsl.pth.iprimus.net.au/116.240.118.244). VL 0.
+14.04.22 13:56:33 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 44.118-240-116.dynamic.dsl.pth.iprimus.net.au/116.240.118.244). VL 0.
+14.04.22 13:56:44 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 44.118-240-116.dynamic.dsl.pth.iprimus.net.au/116.240.118.244). VL 7.
+14.04.22 13:56:51 [INFO] WiiiFreak123 failed Passable: moved into a block (35). VL 10.
+14.04.22 13:56:51 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 44.118-240-116.dynamic.dsl.pth.iprimus.net.au/116.240.118.244). VL 1.
+14.04.22 13:56:58 [INFO] WiiiFreak123 failed Passable: moved into a block (35). VL 11.
+14.04.22 14:02:39 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 44.118-240-116.dynamic.dsl.pth.iprimus.net.au/116.240.118.244). VL 2.
+14.04.22 15:32:07 [INFO] Mr_Jaskirat failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.22 16:00:17 [INFO] Mr_Jaskirat failed Relog: relogs too fast. VL 1.
+14.04.22 21:13:28 [INFO] WiiiFreak123 failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.04.22 21:24:45 [INFO] kytron failed Passable: moved into a block (159). VL 10.
+14.04.22 21:24:45 [INFO] kytron failed Visible: interacts with a block out of sight. VL 5.
+14.04.22 22:54:25 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 6.013.dsl.hob.iprimus.net.au/116.240.250.36). VL 0.
+14.04.22 22:54:40 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 6.013.dsl.hob.iprimus.net.au/116.240.250.36). VL 1.
+14.04.22 23:55:10 [INFO] SereneMango failed Text: acted like spamming (IP: 110-20-193-174.rivrw10.nsw.optusnet.com.au/110.20.193.174). VL 0.
+14.04.23 17:55:08 [INFO] SereneMango failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 13:44:34 [INFO] shavahn2003 failed Improbable: meets the improbable more than expected. VL 19.
+14.04.24 13:49:26 [INFO] SereneMango failed SurvivalFly: tried to move unexpectedly. VL 43.
+14.04.24 15:37:33 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 15:45:43 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 15:50:27 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 15:50:27 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 15:51:59 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 15:51:59 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 15:52:04 [INFO] miniwolf35 failed MorePackets: sent 12 more packet(s) than expected. VL 12.
+14.04.24 15:52:52 [INFO] SereneMango failed Passable: moved into a block (0). VL 10.
+14.04.24 15:53:56 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 319.
+14.04.24 15:53:57 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 15:53:57 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 15:54:49 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 15:58:19 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 546.
+14.04.24 15:58:19 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 1174.
+14.04.24 15:58:20 [INFO] ShaunDepro97 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 16:04:05 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 321.
+14.04.24 16:04:11 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 269.
+14.04.24 16:04:19 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 186.
+14.04.24 16:04:40 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 152.
+14.04.24 16:05:00 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 170.
+14.04.24 16:05:05 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 185.
+14.04.24 16:05:10 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 213.
+14.04.24 16:05:15 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 159.
+14.04.24 16:05:21 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 272.
+14.04.24 16:05:32 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 370.
+14.04.24 16:05:43 [INFO] shavahn2003 failed Speed: tried to throw projectiles too quickly. VL 168.
+14.04.24 16:16:05 [INFO] ShaunDepro97 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.24 16:45:48 [INFO] SereneMango failed Commands: issued too many commands. VL 1.
+14.04.24 16:50:17 [INFO] ShaunDepro97 failed Relog: relogs too fast. VL 1.
+14.04.24 16:51:12 [INFO] ShaunDepro97 failed Relog: relogs too fast. VL 2.
+14.04.24 16:52:24 [INFO] ShaunDepro97 failed Relog: relogs too fast. VL 3.
+14.04.24 19:57:00 [INFO] fkBear failed Text: acted like spamming (IP: PE-124-185-29-123.lns7.cha.bigpond.net.au/124.185.29.123). VL 1.
+14.04.24 21:48:48 [INFO] SwoonAtt failed Text: acted like spamming (IP: 06-69-48-118.dyn.iinet.net.au/106.69.48.118). VL 0.
+14.04.24 21:51:53 [INFO] SereneMango failed Speed: tried to throw projectiles too quickly. VL 261.
+14.04.24 21:52:09 [INFO] SereneMango failed Speed: tried to throw projectiles too quickly. VL 167.
+14.04.24 22:57:21 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-40-155.per802.wa.optusnet.com.au/122.109.40.155). VL 1.
+14.04.24 23:23:14 [INFO] SereneMango failed Text: acted like spamming (IP: 110-20-193-174.rivrw10.nsw.optusnet.com.au/110.20.193.174). VL 3.
+14.04.25 18:29:57 [INFO] SwoonAtt failed Text: acted like spamming (IP: 06-69-202-54.dyn.iinet.net.au/106.69.202.54). VL 1.
+14.04.25 21:09:04 [INFO] SereneMango failed Text: acted like spamming (IP: 110-20-193-174.rivrw10.nsw.optusnet.com.au/110.20.193.174). VL 0.
+14.04.25 21:22:46 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 2.
+14.04.25 21:22:46 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 20.
+14.04.25 21:31:29 [INFO] reggie449 failed Commands: issued too many commands. VL 1.
+14.04.26 03:49:26 [INFO] SwoonAtt failed Text: acted like spamming (IP: 122-109-40-155.per802.wa.optusnet.com.au/122.109.40.155). VL 2.
+14.04.26 05:08:37 [INFO] SwoonAtt failed Text: acted like spamming (IP: 122-109-40-155.per802.wa.optusnet.com.au/122.109.40.155). VL 2.
+14.04.26 05:09:03 [INFO] SwoonAtt failed Text: acted like spamming (IP: 122-109-40-155.per802.wa.optusnet.com.au/122.109.40.155). VL 0.
+14.04.26 05:15:10 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-40-155.per802.wa.optusnet.com.au/122.109.40.155). VL 0.
+14.04.26 05:16:05 [INFO] SwoonAtt failed Text: acted like spamming (IP: 122-109-40-155.per802.wa.optusnet.com.au/122.109.40.155). VL 0.
+14.04.26 13:33:01 [INFO] SereneMango failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.26 16:25:33 [INFO] AnomalousDyna failed Improbable: meets the improbable more than expected. VL 12.
+14.04.26 17:21:35 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 1.
+14.04.26 17:27:53 [INFO] iVelocityGaming failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.26 17:59:33 [INFO] SwoonAtt failed Visible: interacts with a block out of sight. VL 5.
+14.04.26 18:00:11 [INFO] kytron failed Speed: tried to throw projectiles too quickly. VL 201.
+14.04.26 18:00:17 [INFO] SwoonAtt failed Visible: interacts with a block out of sight. VL 6.
+14.04.26 18:00:22 [INFO] SwoonAtt failed Visible: interacts with a block out of sight. VL 6.
+14.04.26 18:00:33 [INFO] kytron failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 99.
+14.04.26 18:00:42 [INFO] SwoonAtt failed Visible: interacts with a block out of sight. VL 6.
+14.04.26 18:00:48 [INFO] SwoonAtt failed Visible: interacts with a block out of sight. VL 7.
+14.04.26 18:01:33 [INFO] SwoonAtt failed Visible: interacts with a block out of sight. VL 6.
+14.04.26 18:02:05 [INFO] kytron failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 149.
+14.04.26 18:02:10 [INFO] kytron failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 268.
+14.04.26 18:02:55 [INFO] kytron failed Angle: tried to hit multiple entities at the same time. VL 303.
+14.04.26 18:03:01 [INFO] kytron failed Angle: tried to hit multiple entities at the same time. VL 519.
+14.04.26 18:03:07 [INFO] kytron failed Angle: tried to hit multiple entities at the same time. VL 676.
+14.04.26 18:04:11 [INFO] kytron failed Angle: tried to hit multiple entities at the same time. VL 281.
+14.04.26 19:25:07 [INFO] SereneMango failed Commands: issued too many commands. VL 1.
+14.04.26 19:27:54 [INFO] Mr_Jaskirat failed Relog: relogs too fast. VL 1.
+14.04.26 20:16:10 [INFO] ShaunDepro97 failed Relog: relogs too fast. VL 1.
+14.04.26 22:42:20 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 1.
+14.04.26 23:23:38 [INFO] SereneMango failed Text: acted like spamming (IP: 110-20-193-174.rivrw10.nsw.optusnet.com.au/110.20.193.174). VL 2.
+14.04.27 19:25:34 [INFO] Mr_Jaskirat failed Relog: relogs too fast. VL 1.
+14.04.27 21:21:05 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-40-155.per802.wa.optusnet.com.au/122.109.40.155). VL 0.
+14.04.28 18:25:26 [INFO] SereneMango failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.04.28 19:08:34 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 51.
+14.04.28 19:20:34 [INFO] kytron failed Speed: tried to attack with too high a frequency. VL 2.
+14.04.28 19:20:34 [INFO] kytron failed Angle: tried to hit multiple entities at the same time. VL 279.
+14.04.28 19:20:34 [INFO] kytron failed Improbable: meets the improbable more than expected. VL 14.
+14.04.28 21:04:54 [INFO] huxtech failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.04.28 21:26:19 [INFO] miniwolf35 failed Speed: tried to attack with too high a frequency. VL 2.
+14.04.28 21:26:46 [INFO] miniwolf35 failed Speed: tried to attack with too high a frequency. VL 2.
+14.04.29 19:09:07 [INFO] SereneMango failed Text: acted like spamming (IP: 110-20-193-174.rivrw10.nsw.optusnet.com.au/110.20.193.174). VL 1.
+14.04.30 18:27:34 [INFO] SereneMango failed Text: acted like spamming (IP: 110-20-193-174.rivrw10.nsw.optusnet.com.au/110.20.193.174). VL 1.
+14.04.30 18:27:47 [INFO] SereneMango failed Text: acted like spamming (IP: 110-20-193-174.rivrw10.nsw.optusnet.com.au/110.20.193.174). VL 2.
+14.04.30 20:14:07 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 101.
+14.04.30 20:15:20 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 51.
+14.04.30 20:15:26 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 101.
+14.04.30 20:17:39 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 102.
+14.04.30 20:21:34 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 150.
+14.04.30 20:21:36 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 9.
+14.04.30 20:22:36 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 152.
+14.04.30 20:22:37 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 6.
+14.04.30 20:22:38 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 199.
+14.04.30 20:22:50 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 202.
+14.04.30 20:22:54 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 298.
+14.04.30 20:24:50 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 397.
+14.04.30 20:24:57 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 6.
+14.04.30 20:26:57 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 252.
+14.04.30 20:27:04 [INFO] SereneMango failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 496.
+14.04.30 20:27:09 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 301.
+14.04.30 20:38:51 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-40-155.per802.wa.optusnet.com.au/122.109.40.155). VL 0.
+14.05.02 18:28:39 [INFO] _Moist failed Visible: interacts with a block out of sight. VL 6.
+14.05.02 18:41:44 [INFO] Mr_Jaskirat failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.02 18:42:06 [INFO] SereneMango failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.02 21:03:38 [INFO] xBlazingxfirex1 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.03 13:04:11 [INFO] _Arch_Rider failed Visible: interacts with a block out of sight. VL 6.
+14.05.03 17:58:21 [INFO] SereneMango failed Text: acted like spamming (IP: 110-20-193-174.rivrw10.nsw.optusnet.com.au/110.20.193.174). VL 1.
+14.05.03 18:17:16 [INFO] AnomalousDyna failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.03 21:52:56 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-40-155.per802.wa.optusnet.com.au/122.109.40.155). VL 0.
+14.05.04 16:40:43 [INFO] reggie449 failed Speed: tried to throw projectiles too quickly. VL 194.
+14.05.04 16:40:52 [INFO] reggie449 failed Speed: tried to throw projectiles too quickly. VL 194.
+14.05.04 16:41:11 [INFO] reggie449 failed Speed: tried to throw projectiles too quickly. VL 178.
+14.05.04 21:11:46 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 112.
+14.05.05 19:05:42 [INFO] xBlazingxfirex1 failed Speed: tried to throw projectiles too quickly. VL 291.
+14.05.05 19:06:20 [INFO] xBlazingxfirex1 failed Speed: tried to throw projectiles too quickly. VL 190.
+14.05.05 19:06:30 [INFO] xBlazingxfirex1 failed Speed: tried to throw projectiles too quickly. VL 172.
+14.05.05 19:06:35 [INFO] xBlazingxfirex1 failed Speed: tried to throw projectiles too quickly. VL 164.
+14.05.05 19:06:40 [INFO] xBlazingxfirex1 failed Speed: tried to throw projectiles too quickly. VL 165.
+14.05.07 18:17:26 [INFO] beadycottonwood failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.07 18:17:49 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-224-222.per802.wa.optusnet.com.au/122.109.224.222). VL 1.
+14.05.07 18:48:34 [INFO] huxtech failed Text: acted like spamming (IP: 122-109-224-222.per802.wa.optusnet.com.au/122.109.224.222). VL 1.
+14.05.07 19:00:37 [INFO] xBlazingxfirex1 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.07 19:32:37 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 6.
+14.05.07 19:32:44 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 8.
+14.05.07 19:32:46 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 11.
+14.05.07 19:32:48 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 16.
+14.05.07 19:32:55 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 23.
+14.05.07 19:33:01 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 25.
+14.05.07 19:33:05 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 27.
+14.05.07 19:33:08 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 29.
+14.05.07 19:33:33 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 28.
+14.05.07 19:33:35 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 30.
+14.05.07 19:33:37 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 32.
+14.05.07 19:33:40 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 33.
+14.05.07 19:33:48 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 33.
+14.05.07 19:33:50 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 34.
+14.05.07 19:33:52 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 43.
+14.05.07 19:34:02 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 45.
+14.05.07 19:34:04 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 52.
+14.05.07 19:34:11 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 60.
+14.05.07 19:34:14 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 60.
+14.05.07 19:34:16 [INFO] AnomalousDyna failed Visible: interacts with a block out of sight. VL 61.
+14.05.07 20:08:45 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.07 20:53:10 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.07 20:53:11 [INFO] zdav2002 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.07 20:53:13 [INFO] shavahn2003 failed MorePackets: sent 12 more packet(s) than expected. VL 12.
+14.05.07 22:33:57 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.05.07 22:38:50 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.05.07 22:44:55 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.05.07 22:44:58 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 15.
+14.05.07 22:45:01 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 23.
+14.05.07 22:45:04 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 25.
+14.05.09 01:47:19 [INFO] LadyEmily failed Speed: tried to throw projectiles too quickly. VL 314.
+14.05.09 01:48:42 [INFO] LadyEmily failed Speed: tried to throw projectiles too quickly. VL 286.
+14.05.09 01:48:48 [INFO] LadyEmily failed Speed: tried to throw projectiles too quickly. VL 225.
+14.05.09 17:53:05 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.09 17:53:06 [INFO] xBlazingxfirex1 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.09 17:53:13 [INFO] miniwolf35 failed Passable: moved into a block (2). VL 10.
+14.05.09 18:00:55 [INFO] deadsun__star failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.05.09 18:00:56 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.09 18:03:26 [INFO] beadycottonwood failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.09 19:02:00 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 6.
+14.05.09 19:02:11 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 6.
+14.05.09 19:02:16 [INFO] zdav2002 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.05.09 19:02:40 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 5.
+14.05.09 19:02:45 [INFO] deadsun__star failed SurvivalFly: tried to move unexpectedly. VL 20.
+14.05.09 19:03:20 [INFO] deadsun__star failed SurvivalFly: tried to move unexpectedly. VL 9.
+14.05.09 19:03:21 [INFO] deadsun__star failed Direction: tried to interact with a block out of his line of sight. VL 12.
+14.05.09 19:03:25 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 6.
+14.05.09 19:03:27 [INFO] deadsun__star failed SurvivalFly: tried to move unexpectedly. VL 26.
+14.05.09 19:03:31 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 8.
+14.05.09 19:03:38 [INFO] deadsun__star failed SurvivalFly: tried to move unexpectedly. VL 5.
+14.05.09 19:04:00 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 7.
+14.05.09 19:04:18 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 8.
+14.05.09 19:04:39 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 5.
+14.05.09 19:08:15 [INFO] zdav2002 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 149.
+14.05.09 19:09:02 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 50.
+14.05.09 19:09:05 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 5.
+14.05.09 19:09:15 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 24.
+14.05.09 19:09:29 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 5.
+14.05.09 19:09:29 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 2.
+14.05.09 19:09:40 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 17.
+14.05.09 19:09:59 [INFO] xBlazingxfirex1 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 99.
+14.05.09 19:10:01 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 6.
+14.05.09 19:10:02 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 1.
+14.05.09 19:10:14 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 100.
+14.05.09 19:10:16 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 1.
+14.05.09 19:10:20 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 150.
+14.05.09 19:10:26 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 5.
+14.05.09 19:10:27 [INFO] deadsun__star failed SurvivalFly: tried to move unexpectedly. VL 3.
+14.05.09 19:10:40 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 26.
+14.05.09 19:10:48 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 5.
+14.05.09 19:11:01 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 7.
+14.05.09 19:11:03 [INFO] deadsun__star failed SurvivalFly: tried to move unexpectedly. VL 17.
+14.05.09 19:11:06 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 6.
+14.05.09 19:11:14 [INFO] xBlazingxfirex1 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 149.
+14.05.09 19:11:15 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 299.
+14.05.09 21:29:07 [INFO] DragonBorn_Gamer failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.09 21:36:37 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 11.
+14.05.09 21:36:43 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 53.
+14.05.09 21:36:48 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 52.
+14.05.09 21:36:50 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 102.
+14.05.09 21:36:57 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 32.
+14.05.09 21:37:01 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 103.
+14.05.09 21:37:03 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 96.
+14.05.09 21:37:16 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 26.
+14.05.09 21:37:21 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 5.
+14.05.09 21:37:27 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 32.
+14.05.09 21:37:34 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 24.
+14.05.09 21:37:39 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 19.
+14.05.09 21:37:49 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 17.
+14.05.09 21:37:54 [INFO] LadyEmily failed CreativeFly: tried to move unexpectedly. VL 23.
+14.05.09 23:00:24 [INFO] deadsun__star failed Text: acted like spamming (IP: 219078153040.netvigator.com/219.78.153.40). VL 3.
+14.05.10 09:43:39 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.05.10 09:44:24 [INFO] xBlazingxfirex1 failed Visible: interacts with a block out of sight. VL 5.
+14.05.10 09:46:53 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.05.10 09:51:24 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.05.10 10:28:27 [INFO] shavahn2003 failed Passable: moved into a block (1). VL 10.
+14.05.10 11:23:45 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.05.10 11:23:48 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 17.
+14.05.10 11:23:51 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 21.
+14.05.10 11:23:54 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 27.
+14.05.10 12:58:48 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 11.
+14.05.10 12:59:18 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.05.10 12:59:21 [INFO] xBlazingxfirex1 failed Visible: interacts with a block out of sight. VL 6.
+14.05.10 12:59:23 [INFO] xBlazingxfirex1 failed Visible: interacts with a block out of sight. VL 9.
+14.05.10 12:59:34 [INFO] xBlazingxfirex1 failed Visible: interacts with a block out of sight. VL 12.
+14.05.10 13:07:54 [INFO] xBlazingxfirex1 failed Visible: interacts with a block out of sight. VL 6.
+14.05.10 13:07:56 [INFO] xBlazingxfirex1 failed Visible: interacts with a block out of sight. VL 8.
+14.05.10 14:30:13 [INFO] miniwolf35 failed Passable: moved into a block (80). VL 10.
+14.05.10 14:31:56 [INFO] miniwolf35 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.10 14:31:56 [INFO] zdav2002 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.10 14:41:54 [INFO] xBlazingxfirex1 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.05.10 14:58:10 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.10 15:20:31 [INFO] shavahn2003 failed Text: acted like spamming (IP: 24-171-123-219.dyn.iinet.net.au/124.171.123.219). VL 0.
+14.05.10 15:49:36 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.10 16:56:27 [INFO] SereneMango failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.10 17:16:12 [INFO] deadsun__star failed CreativeFly: tried to move unexpectedly. VL 62.
+14.05.10 17:16:15 [INFO] deadsun__star failed CreativeFly: tried to move unexpectedly. VL 108.
+14.05.10 17:16:17 [INFO] deadsun__star failed CreativeFly: tried to move unexpectedly. VL 84.
+14.05.10 17:16:21 [INFO] deadsun__star failed CreativeFly: tried to move unexpectedly. VL 102.
+14.05.10 17:16:26 [INFO] deadsun__star failed CreativeFly: tried to move unexpectedly. VL 109.
+14.05.10 17:16:30 [INFO] deadsun__star failed CreativeFly: tried to move unexpectedly. VL 83.
+14.05.10 17:16:31 [INFO] deadsun__star failed CreativeFly: tried to move unexpectedly. VL 134.
+14.05.10 17:16:38 [INFO] deadsun__star failed CreativeFly: tried to move unexpectedly. VL 123.
+14.05.10 17:16:41 [INFO] xBlazingxfirex1 failed CreativeFly: tried to move unexpectedly. VL 55.
+14.05.10 17:16:43 [INFO] deadsun__star failed CreativeFly: tried to move unexpectedly. VL 231.
+14.05.10 17:16:44 [INFO] xBlazingxfirex1 failed CreativeFly: tried to move unexpectedly. VL 118.
+14.05.10 17:16:48 [INFO] deadsun__star failed CreativeFly: tried to move unexpectedly. VL 246.
+14.05.10 17:16:56 [INFO] deadsun__star failed CreativeFly: tried to move unexpectedly. VL 147.
+14.05.10 17:18:18 [INFO] xBlazingxfirex1 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 199.
+14.05.10 20:16:21 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 2.
+14.05.10 20:16:34 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 6.
+14.05.10 20:16:45 [INFO] xBlazingxfirex1 failed SurvivalFly: tried to move unexpectedly. VL 8.
+14.05.10 20:17:03 [INFO] beadycottonwood failed Direction: tried to hit an entity out of line of sight. VL 15.
+14.05.10 20:17:08 [INFO] beadycottonwood failed Direction: tried to hit an entity out of line of sight. VL 17.
+14.05.10 20:17:08 [INFO] beadycottonwood failed Angle: tried to hit multiple entities at the same time. VL 296.
+14.05.10 20:19:47 [INFO] zdav2002 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.05.10 20:45:35 [INFO] deadsun__star failed Commands: issued too many commands. VL 1.
+14.05.10 20:49:10 [INFO] LadyEmily failed Direction: tried to interact with a block out of his line of sight. VL 13.
+14.05.10 20:49:10 [INFO] xBlazingxfirex1 failed Angle: tried to hit multiple entities at the same time. VL 282.
+14.05.10 20:49:11 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.10 20:51:38 [INFO] xBlazingxfirex1 failed Improbable: meets the improbable more than expected. VL 4.
+14.05.10 21:03:55 [INFO] xBlazingxfirex1 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.10 21:03:55 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.10 21:10:15 [INFO] LadyEmily failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.10 22:53:08 [INFO] reggie449 failed Commands: issued too many commands. VL 1.
+14.05.10 23:01:39 [INFO] DragonBorn_Gamer failed Speed: tried to throw projectiles too quickly. VL 314.
+14.05.11 11:03:04 [INFO] xBlazingxfirex1 failed Improbable: meets the improbable more than expected. VL 12.
+14.05.11 11:20:29 [INFO] Geedubs01 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.11 17:47:42 [INFO] kytron failed InstantBow: fires bow too fast. VL 18.
+14.05.11 17:47:51 [INFO] kytron failed InstantBow: fires bow too fast. VL 21.
+14.05.11 17:49:31 [INFO] kytron failed InstantBow: fires bow too fast. VL 28.
+14.05.11 17:55:41 [INFO] kytron failed InstantBow: fires bow too fast. VL 21.
+14.05.11 18:57:30 [INFO] LadyEmily failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.11 20:02:22 [INFO] miniwolf35 failed Text: acted like spamming (IP: 211-30-211-156.thorn2.nsw.optusnet.com.au/211.30.211.156). VL 0.
+14.05.11 20:03:01 [INFO] xBlazingxfirex1 failed Visible: interacts with a block out of sight. VL 5.
+14.05.11 20:03:45 [INFO] xBlazingxfirex1 failed Visible: interacts with a block out of sight. VL 6.
+14.05.11 22:59:53 [INFO] reggie449 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.11 23:00:28 [INFO] reggie449 failed Visible: interacts with a block out of sight. VL 5.
+14.05.12 20:48:49 [INFO] xBlazingxfirex1 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.14 19:16:29 [INFO] xBlazingxfirex1 failed Commands: issued too many commands. VL 1.
+14.05.14 20:32:22 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 99.
+14.05.14 20:32:30 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 149.
+14.05.14 20:34:34 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 348.
+14.05.14 20:34:42 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 354.
+14.05.14 20:37:34 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 558.
+14.05.14 20:37:48 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 608.
+14.05.14 20:39:48 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 5.
+14.05.14 20:39:49 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 658.
+14.05.14 20:39:54 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 1056.
+14.05.14 20:43:22 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 1207.
+14.05.14 20:43:28 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 1307.
+14.05.14 20:44:45 [INFO] zdav2002 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 98.
+14.05.14 20:46:17 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 1356.
+14.05.14 20:47:58 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 11.
+14.05.14 20:48:12 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 10.
+14.05.14 20:48:23 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 8.
+14.05.14 20:48:43 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 1406.
+14.05.14 20:51:20 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 1455.
+14.05.14 20:51:46 [INFO] zdav2002 failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 99.
+14.05.14 20:52:00 [INFO] deadsun__star failed Direction: tried to hit an entity out of line of sight. VL 10.
+14.05.14 20:52:53 [INFO] zdav2002 failed Direction: tried to interact with a block out of his line of sight. VL 10.
+14.05.14 20:56:49 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 1504.
+14.05.14 20:56:51 [INFO] deadsun__star failed Speed: tried to attack with too high a frequency. VL 2.
+14.05.14 20:56:54 [INFO] deadsun__star failed Knockback: tried to do a knockback but wasn't technically sprinting. VL 1652.
+14.05.14 21:10:36 [INFO] SereneMango failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.16 20:18:33 [INFO] Afridge1O1 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.17 21:26:35 [INFO] reggie449 failed Commands: issued too many commands. VL 1.
+14.05.17 21:38:53 [INFO] reggie449 failed Text: acted like spamming (IP: urges23.lnk.telstra.net/120.151.217.71). VL 0.
+14.05.17 21:44:25 [INFO] shavahn2003 failed MorePackets: sent 10 more packet(s) than expected. VL 10.
+14.05.18 22:04:12 [INFO] WiiiFreak123 failed Text: acted like spamming (IP: 89.019.dsl.pth.iprimus.net.au/58.178.208.189). VL 0.
+14.05.19 23:09:03 [INFO] miniwolf35 failed Passable: moved into a block (13). VL 10.

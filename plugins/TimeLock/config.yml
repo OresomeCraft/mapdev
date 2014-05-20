@@ -1,0 +1,66 @@
+#      TimeLock Example Configuration
+# ----------------------------------------
+# World:     
+#   world: day
+#   world_nether: night
+#   world_the_end: normal
+
+World:
+  terminal: night
+  spaceship: night
+  mansion: night
+  قرية: night
+  gorge: day
+  Prison: night
+  wrecked: night
+  prison: night
+  gladiator: normal
+  tundra: night
+  crater: night
+  sunshine: '23650'
+  roseley: night
+  alpines: day
+  jacquimap: '13000'
+  rainbow: night
+  tree: day
+  clashofclayiii: day
+  clashofclayii: day
+  retro: night
+  ecscadine: normal
+  volcanoe: night
+  falls: day
+  path: night
+  jacqui: day
+  zonedii: night
+  river: day
+  fort: day
+  court: day
+  subterrania: night
+  glass: night
+  templerun: night
+  daybreakridge: day
+  world: day
+  satellite: normal
+  hotel: night
+  witheredsavanna: normal
+  atmosphere: day
+  xzizle123: normal
+  academy: day
+  tiotspawn: normal
+  courtyard: day
+  solitude_nolag: day
+  solitude: day
+  lauderdale: day
+  flip: day
+  newtiotmap: day
+  cluboresome: '12000'
+  elysiumruins: normal
+  fissure: day
+  scruffobliv: day
+  battlestadium: day
+  icysanctum: day
+  aquarion: normal
+  survive: day
+  operation: day
+  paintballnew: night
+  paintball_echo: night

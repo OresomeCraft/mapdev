@@ -1,0 +1,491 @@
+groups:
+  Default:
+    prefix: '&3'
+    default: true
+    permissions:
+    - mapdev.rank.default
+    - oresomeutils.gc
+    - essentials.list
+    - essentials.tp
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+  Builder:
+    prefix: '&e[Builder]&9'
+    inheritance:
+    - Default
+    default: false
+    permissions:
+    - essentials.help
+    - essentials.me
+    - mapdev.rank.builder
+    - essentials.m
+    - essentials.msg
+    - essentials.tell.*
+    - essentials.afk
+    - ichat.colour
+    - mapdev.terraform
+    - essentials.ban.notify
+    - essentials.warp
+    - essentials.kick.notify
+    - essentials.tptoggle
+    - essentials.tpohere
+    - essentials.give.*
+    - essentials.give
+    - bukkit.command.gamerule
+    - voxelsniper.*
+    - essentials.oversizedstacks
+    - essentials.more
+    - bukkit.command.save.perform
+    - essentials.clearinventory
+    - essentials.weather
+    - essentials.back
+    - worldedit.*
+    - essentials.gamemode
+    - worldguard.region.bypass
+    - essentials.tppos
+    - essentials.tp
+    - essentials.ci
+    - essentials.item
+    - essentials.time.set
+    - essentials.time
+    - essentials.gamemode
+    - mapdev.loadworld
+    - mapdev.unloadworld
+    - mapdev.loadworldfromrepo
+    - mapdev.worldtp
+    - mapdev.worldsetspawn
+  MapDev:
+    prefix: '&e[Map Config Team]&c'
+    inheritance:
+    - Default
+    - Builder
+    permissions:
+    - mapdev.rank.mapdev
+    - ichat.colour
+    - plugman.*
+    - timelock.*
+    - permissions.manage.membership.Default
+    - permissions.manage.membership.Builder
+    - nocheatplus.*
+    - bukkit.command.toggledownfall
+    - essentials.weather
+    - bukkit.command.gamerule
+    - bukkit.command.whitelist
+    - oresomeutils.*
+    - essentials.gc
+    - worldedit.*
+    - bukkit.gamerule
+    - bukkit.whitelist.*
+    - bukkit.whitelist
+    - worldguard.*
+    - voxelsniper.*
+    - mapdev.*
+    - essentials.*
+    worlds:
+      -bukkit.command.op.*:
+        permissions:
+        - permission
+  Admin:
+    prefix: '&e[Administrator]&4'
+    permissions:
+    - mapdev.rank.admin
+    - '*'
+users:
+  zachoz:
+    group:
+    - Admin
+  psgs:
+    group:
+    - MapDev
+  ShaunDepro97:
+    group:
+    - Builder
+  SuperDuckFace:
+    group:
+    - MapDev
+    prefix: '[&3Builder&f]'
+    permissions:
+    - mapdev.putworldinrepo
+  ViolentShadow:
+    group:
+    - MapDev
+    permissions:
+    - essentials.tpo
+    - essentials.tptoggle
+    - essentials.tpohere
+  _Husky_:
+    group:
+    - Admin
+  Yuzko:
+    group:
+    - Builder
+  Geedubs01:
+    group:
+    - Builder
+  eddie017:
+    group:
+    - Builder
+  LadyEmily:
+    group:
+    - Builder
+  meganlovesmusic:
+    group:
+    - MapDev
+    permissions:
+    - ichat.colour
+    worlds:
+      add:
+        permissions:
+        - whitelist
+  Afridge1O1:
+    group:
+    - Builder
+  DynaDavidson:
+    group:
+    - Builder
+  _Moist:
+    group:
+    - Default
+    - Builder
+    permissions:
+    - voxelsniper.*
+    prefix: '[&eMoistie&f] &f'
+  bruuceey:
+    group:
+    - Builder
+  Lyssieloo:
+    group:
+    - Builder
+  ninsai:
+    group:
+    - MapDev
+  Turt1eManLol:
+    group:
+    - Builder
+  _Arch_Rider:
+    group:
+    - Builder
+    permissions:
+    - mapdev.listmaps
+  Corrigan1998:
+    group:
+    - Builder
+    permissions:
+    - essentials.spawner.*
+  kevlar_miner:
+    group:
+    - Admin
+  callumary:
+    group:
+    - Builder
+  Sky_Aurora:
+    group:
+    - Builder
+  shavahn2003:
+    group:
+    - Builder
+  eazyrider101:
+    group:
+    - Builder
+  FaazM:
+    group:
+    - Builder
+  simonwilson123:
+    group:
+    - Builder
+  bumsonfire:
+    group:
+    - Builder
+  broddikill:
+    group:
+    - Builder
+  VinesweptMC:
+    group:
+    - Builder
+  jslsa:
+    group:
+    - Builder
+  popetpoo:
+    group:
+    - Builder
+  LanderA:
+    group:
+    - Builder
+  Luke131166:
+    group:
+    - Builder
+  MiCkEyMiCE:
+    group:
+    - Builder
+  xTeChNoSoUl:
+    group:
+    - Builder
+  dogmode555:
+    group:
+    - Builder
+  CreeperDaWeeper:
+    group:
+    - Builder
+  dutchy336:
+    group:
+    - Builder
+  BroccoliSux:
+    group:
+    - Builder
+  JacquiRose:
+    group:
+    - Builder
+  Evil_Emo:
+    group:
+    - Builder
+  PKBeam:
+    group:
+    - Builder
+  dragonxcv:
+    group:
+    - Builder
+  xXxTakumaxXx:
+    group:
+    - Builder
+  danielschroeder:
+    group:
+    - Builder
+    permissions:
+    - oresomeutils.*
+    - essentials.*
+  Rynocraft:
+    group:
+    - Builder
+  HorrorRocks:
+    group:
+    - Default
+  iVelocityGaming:
+    group:
+    - Builder
+  diman156:
+    group:
+    - Builder
+  kytron:
+    group:
+    - Builder
+  OzJake24:
+    group:
+    - Builder
+  ScruffyRules:
+    group:
+    - MapDev
+    permissions:
+    - essentials.hat
+    - WorldEdit.hpos2
+    - WorldEdit.hpos1
+    - WorldEdit.hpos
+    - WorldEdit.set
+    - WorldEdit.wan
+    - WorldEdit.wand
+    - pex
+    - mapdev.putworldinrepo
+  husky:
+    group:
+    - Default
+  the_green_guy:
+    group:
+    - Builder
+  NobleFable:
+    group:
+    - Admin
+  niceman506:
+    group:
+    - Builder
+  BlueVortexed:
+    group:
+    - Builder
+  ep1cn00bt00b:
+    group:
+    - Builder
+  aeroy0723:
+    group:
+    - Builder
+  fkBear:
+    group:
+    - Builder
+  DARKBRITENESS:
+    group:
+    - Builder
+  ImSoRandom111:
+    group:
+    - Builder
+  WiiiFreak123:
+    group:
+    - Builder
+  test:
+    group:
+    - Member
+  StewPetasuarus:
+    group:
+    - Builder
+  minecrafter32324:
+    group:
+    - Builder
+  Mr_Mandorian:
+    group:
+    - Builder
+  123Oblivious:
+    group:
+    - Builder
+  XUHAVON:
+    group:
+    - Builder
+  Chr0me_W0lf:
+    group:
+    - Builder
+  Fliine:
+    group:
+    - Builder
+  SecretSeriosity:
+    group:
+    - Builder
+  reggie449:
+    group:
+    - Builder
+  Kooper94:
+    group:
+    - Builder
+  Fameously:
+    group:
+    - Builder
+  wertea:
+    group:
+    - Builder
+  Boomyay:
+    group:
+    - Builder
+  CobblestonePVP:
+    group:
+    - Builder
+  _Trezo_:
+    group:
+    - Builder
+    prefix: doge
+  NitroNinja590:
+    group:
+    - Builder
+  kalysay:
+    group: []
+  kalysar:
+    group:
+    - Builder
+  _Smexy_:
+    group:
+    - Builder
+  name:
+    group:
+    - Admin
+  mapdev:
+    group:
+    - superduckface
+    permissions:
+    - essentials.kick.exempt
+    - essentials.tempban.exempt
+    - essentials.ban.exempt
+  reub_youtube:
+    group:
+    - Builder
+  xZizle123:
+    group:
+    - Builder
+  darkopps:
+    group:
+    - Builder
+  r3creat3:
+    group:
+    - Default
+  zdav2002:
+    group:
+    - Builder
+  huxtech:
+    group:
+    - Builder
+  viba09:
+    group:
+    - Builder
+    permissions:
+    - essentials.nuke
+  swoonatt:
+    group:
+    - Builder
+  azdaspaz818:
+    group:
+    - Builder
+  codmelow:
+    group:
+    - Default
+  Sooty4:
+    group:
+    - Builder
+  __R#:
+    group:
+    - MapDev
+  __R3:
+    group:
+    - MapDev
+  winnieeeee:
+    group:
+    - Builder
+  microstevey:
+    group:
+    - Builder
+  KeyboardWarrior_:
+    group:
+    - Builder
+  pegabeavercorn:
+    group:
+    - Admin
+  xBlazingxfirex1:
+    group:
+    - Builder
+  Xelphius:
+    group:
+    - Builder
+  active_ninja1:
+    group:
+    - Builder
+  AnomalousDyna:
+    group:
+    - Builder
+  DanShrdr:
+    group:
+    - Builder
+  Smithey:
+    group:
+    - Builder
+  miniwolf35:
+    group:
+    - Builder
+  deadsun__star:
+    group:
+    - Builder
+  SereneMango:
+    group:
+    - Builder
+  TiniDaDominator:
+    group:
+    - Builder
+  krontezian:
+    group:
+    - Builder
+  Mr_Jaskirat:
+    group:
+    - Builder
+  beadycottonwood:
+    group:
+    - Builder
+  Zepher1399:
+    group:
+    - Builder
+  DragonBorn_Gamer:
+    group:
+    - Builder
+  VoiiDexHD:
+    group:
+    - Builder

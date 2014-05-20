@@ -1,0 +1,11 @@
+usercache.json
+#worlds/
+logs/
+plugins/WorldGuard/worlds/
+plugins/WorldEdit/schematics/
+plugins/Essentials/userdata/
+plugins/MinecraftBot/*
+spigot.jar
+
+.DS_STORE
+__MACOSX

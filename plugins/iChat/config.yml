@@ -1,0 +1,13 @@
+# iChat, made by Husky!
+ChatFormat: '[%rank%] %playername%: %message%'
+Ranks:
+  Default:
+    Prefix: '&2'
+  Admin:
+    Prefix: '&c'
+  MapDev:
+    Prefix: '&9'
+  Builder:
+    Prefix: '&3'
+  Investigator:
+    Prefix: '&5'

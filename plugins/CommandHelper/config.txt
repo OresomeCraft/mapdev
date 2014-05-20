@@ -1,0 +1,3 @@
+~ops:/canbuild $user $map = runas(~console, /pex user $user add battleutils.build'.'$map)
+
+~ops:/cantbuild $user $map = runas(~console, /pex user $user add battleutils.build'.'$map)
